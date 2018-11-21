@@ -1,0 +1,20 @@
+11--12|Agriculture, Forestry, Fishing and Hunting
+21--22|Mining
+22--23|Utilities
+23--24|Construction
+31--34|Manufacturing
+42--43|Wholesale Trade
+44--46|Retail Trade
+48--50|Transportation and Warehousing
+51--52|Information
+52--53|Finance and Insurance
+53--54|Real Estate and Rental and Leasing
+54--55|Professional, Scientific, and Technical Services
+55--56|Management
+56--57|Administrative and Support and Waste Management and Remediation Services
+61--62|Educational Services
+62--63|Health Care and Social Assistance
+71--72|Arts, Entertainment, and Recreation
+72--73|Accommodation and Food Services
+81--82|Other Services (except Government)
+99-100|Government
