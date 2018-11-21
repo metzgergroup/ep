@@ -2,7 +2,7 @@ ARG PG_VERSION=latest
 
 FROM postgres:${PG_VERSION} AS build
 ENV PGDATA /pgdata
-ENV POSTGRES_DB emp
+ENV POSTGRES_DB ep
 COPY docker-scripts /docker-entrypoint-initdb.d
 RUN docker-entrypoint.sh --help
 
