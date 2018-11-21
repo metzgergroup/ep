@@ -18,22 +18,24 @@ fix:
 	#   example: 0000 -> 0
 	# Remove leading zeros
 	#   example: 0300 -> 300
+	# Replace comma separators with pipes
 	# Add newline at end of file
 	sed -e 's/"\([0-9]\+\),\([0-9.]\+\)"/\1\2/g' \
 	    -e 's/\([0-9]\+\)\.\([0-9]\+\)/\1\200/g' \
 	    -e 's/,0\+/,0/g' \
 	    -e 's/,0\([0-9]\+\)/,\1/g' \
+	    -e 's/,/|/g' \
 	    -e '$$a\' \
 	    -i ${SOURCE_DIR}/*.csv
 
 	@echo "Adding sector code to each line..."
-	for file in ${SOURCE_DIR}/*; do \
-	    sed -e "s/^/$$(basename -s .csv $${file}),/" -i $${file}; \
+	for file in ${SOURCE_DIR}/*.csv; do \
+	    sed -e "s/^/$$(basename -s .csv $${file})|/" -i $${file}; \
 	done
 
 	@echo "Combine into single file..."
-	for file in ${SOURCE_DIR}/*; do \
-	    sed 1d $${file} >> ${SOURCE_DIR}/combined.csv; \
+	for file in ${SOURCE_DIR}/*.csv; do \
+	    sed 1d $${file} >> ${SOURCE_DIR}/employment_projection.txt; \
 	done
 
 build:
