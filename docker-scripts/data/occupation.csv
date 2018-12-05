@@ -1,0 +1,1091 @@
+Summary,00-0000,"Total, all occupations"
+Summary,11-0000,Management occupations
+Summary,11-1000,Top executives
+Line item,11-1011,Chief executives
+Line item,11-1021,General and operations managers
+Line item,11-1031,Legislators
+Summary,11-2000,"Advertising, marketing, promotions, public relations, and sales managers"
+Line item,11-2011,Advertising and promotions managers
+Summary,11-2020,Marketing and sales managers
+Line item,11-2021,Marketing managers
+Line item,11-2022,Sales managers
+Line item,11-2031,Public relations and fundraising managers
+Summary,11-3000,Operations specialties managers
+Line item,11-3011,Administrative services managers
+Line item,11-3021,Computer and information systems managers
+Line item,11-3031,Financial managers
+Line item,11-3051,Industrial production managers
+Line item,11-3061,Purchasing managers
+Line item,11-3071,"Transportation, storage, and distribution managers"
+Line item,11-3111,Compensation and benefits managers
+Line item,11-3121,Human resources managers
+Line item,11-3131,Training and development managers
+Summary,11-9000,Other management occupations
+Line item,11-9013,"Farmers, ranchers, and other agricultural managers"
+Line item,11-9021,Construction managers
+Summary,11-9030,Education administrators
+Line item,11-9031,"Education administrators, preschool and childcare center/program"
+Line item,11-9032,"Education administrators, elementary and secondary school"
+Line item,11-9033,"Education administrators, postsecondary"
+Line item,11-9039,"Education administrators, all other"
+Line item,11-9041,Architectural and engineering managers
+Line item,11-9051,Food service managers
+Line item,11-9061,Funeral service managers
+Line item,11-9071,Gaming managers
+Line item,11-9081,Lodging managers
+Line item,11-9111,Medical and health services managers
+Line item,11-9121,Natural sciences managers
+Line item,11-9131,Postmasters and mail superintendents
+Line item,11-9141,"Property, real estate, and community association managers"
+Line item,11-9151,Social and community service managers
+Line item,11-9161,Emergency management directors
+Line item,11-9199,"Managers, all other"
+Summary,13-0000,Business and financial operations occupations
+Summary,13-1000,Business operations specialists
+Line item,13-1011,"Agents and business managers of artists, performers, and athletes"
+Summary,13-1020,Buyers and purchasing agents
+Line item,13-1021,"Buyers and purchasing agents, farm products"
+Line item,13-1022,"Wholesale and retail buyers, except farm products"
+Line item,13-1023,"Purchasing agents, except wholesale, retail, and farm products"
+Summary,13-1030,"Claims adjusters, appraisers, examiners, and investigators"
+Line item,13-1031,"Claims adjusters, examiners, and investigators"
+Line item,13-1032,"Insurance appraisers, auto damage"
+Line item,13-1041,Compliance officers
+Line item,13-1051,Cost estimators
+Summary,13-1070,Human resources workers
+Line item,13-1071,Human resources specialists
+Line item,13-1074,Farm labor contractors
+Line item,13-1075,Labor relations specialists
+Line item,13-1081,Logisticians
+Line item,13-1111,Management analysts
+Line item,13-1121,"Meeting, convention, and event planners"
+Line item,13-1131,Fundraisers
+Line item,13-1141,"Compensation, benefits, and job analysis specialists"
+Line item,13-1151,Training and development specialists
+Line item,13-1161,Market research analysts and marketing specialists
+Line item,13-1199,"Business operations specialists, all other"
+Summary,13-2000,Financial specialists
+Line item,13-2011,Accountants and auditors
+Line item,13-2021,Appraisers and assessors of real estate
+Line item,13-2031,Budget analysts
+Line item,13-2041,Credit analysts
+Summary,13-2050,Financial analysts and advisors
+Line item,13-2051,Financial analysts
+Line item,13-2052,Personal financial advisors
+Line item,13-2053,Insurance underwriters
+Line item,13-2061,Financial examiners
+Summary,13-2070,Credit counselors and loan officers
+Line item,13-2071,Credit counselors
+Line item,13-2072,Loan officers
+Summary,13-2080,"Tax examiners, collectors and preparers, and revenue agents"
+Line item,13-2081,"Tax examiners and collectors, and revenue agents"
+Line item,13-2082,Tax preparers
+Line item,13-2099,"Financial specialists, all other"
+Summary,15-0000,Computer and mathematical occupations
+Summary,15-1100,Computer occupations
+Line item,15-1111,Computer and information research scientists
+Summary,15-1120,Computer and information analysts
+Line item,15-1121,Computer systems analysts
+Line item,15-1122,Information security analysts
+Summary,15-1130,Software developers and programmers
+Line item,15-1131,Computer programmers
+Line item,15-1132,"Software developers, applications"
+Line item,15-1133,"Software developers, systems software"
+Line item,15-1134,Web developers
+Summary,15-1140,Database and systems administrators and network architects
+Line item,15-1141,Database administrators
+Line item,15-1142,Network and computer systems administrators
+Line item,15-1143,Computer network architects
+Summary,15-1150,Computer support specialists
+Line item,15-1151,Computer user support specialists
+Line item,15-1152,Computer network support specialists
+Line item,15-1199,"Computer occupations, all other"
+Summary,15-2000,Mathematical science occupations
+Line item,15-2011,Actuaries
+Line item,15-2021,Mathematicians
+Line item,15-2031,Operations research analysts
+Line item,15-2041,Statisticians
+Summary,15-2090,Miscellaneous mathematical science occupations
+Line item,15-2091,Mathematical technicians
+Line item,15-2099,"Mathematical science occupations, all other"
+Summary,17-0000,Architecture and engineering occupations
+Summary,17-1000,"Architects, surveyors, and cartographers"
+Summary,17-1010,"Architects, except naval"
+Line item,17-1011,"Architects, except landscape and naval"
+Line item,17-1012,Landscape architects
+Summary,17-1020,"Surveyors, cartographers, and photogrammetrists"
+Line item,17-1021,Cartographers and photogrammetrists
+Line item,17-1022,Surveyors
+Summary,17-2000,Engineers
+Line item,17-2011,Aerospace engineers
+Line item,17-2021,Agricultural engineers
+Line item,17-2031,Biomedical engineers
+Line item,17-2041,Chemical engineers
+Line item,17-2051,Civil engineers
+Line item,17-2061,Computer hardware engineers
+Summary,17-2070,Electrical and electronics engineers
+Line item,17-2071,Electrical engineers
+Line item,17-2072,"Electronics engineers, except computer"
+Line item,17-2081,Environmental engineers
+Summary,17-2110,"Industrial engineers, including health and safety"
+Line item,17-2111,"Health and safety engineers, except mining safety engineers and inspectors"
+Line item,17-2112,Industrial engineers
+Line item,17-2121,Marine engineers and naval architects
+Line item,17-2131,Materials engineers
+Line item,17-2141,Mechanical engineers
+Line item,17-2151,"Mining and geological engineers, including mining safety engineers"
+Line item,17-2161,Nuclear engineers
+Line item,17-2171,Petroleum engineers
+Line item,17-2199,"Engineers, all other"
+Summary,17-3000,"Drafters, engineering technicians, and mapping technicians"
+Summary,17-3010,Drafters
+Line item,17-3011,Architectural and civil drafters
+Line item,17-3012,Electrical and electronics drafters
+Line item,17-3013,Mechanical drafters
+Line item,17-3019,"Drafters, all other"
+Summary,17-3020,"Engineering technicians, except drafters"
+Line item,17-3021,Aerospace engineering and operations technicians
+Line item,17-3022,Civil engineering technicians
+Line item,17-3023,Electrical and electronics engineering technicians
+Line item,17-3024,Electro-mechanical technicians
+Line item,17-3025,Environmental engineering technicians
+Line item,17-3026,Industrial engineering technicians
+Line item,17-3027,Mechanical engineering technicians
+Line item,17-3029,"Engineering technicians, except drafters, all other"
+Line item,17-3031,Surveying and mapping technicians
+Summary,19-0000,"Life, physical, and social science occupations"
+Summary,19-1000,Life scientists
+Summary,19-1010,Agricultural and food scientists
+Line item,19-1011,Animal scientists
+Line item,19-1012,Food scientists and technologists
+Line item,19-1013,Soil and plant scientists
+Summary,19-1020,Biological scientists
+Line item,19-1021,Biochemists and biophysicists
+Line item,19-1022,Microbiologists
+Line item,19-1023,Zoologists and wildlife biologists
+Line item,19-1029,"Biological scientists, all other"
+Summary,19-1030,Conservation scientists and foresters
+Line item,19-1031,Conservation scientists
+Line item,19-1032,Foresters
+Summary,19-1040,Medical scientists
+Line item,19-1041,Epidemiologists
+Line item,19-1042,"Medical scientists, except epidemiologists"
+Line item,19-1099,"Life scientists, all other"
+Summary,19-2000,Physical scientists
+Summary,19-2010,Astronomers and physicists
+Line item,19-2011,Astronomers
+Line item,19-2012,Physicists
+Line item,19-2021,Atmospheric and space scientists
+Summary,19-2030,Chemists and materials scientists
+Line item,19-2031,Chemists
+Line item,19-2032,Materials scientists
+Summary,19-2040,Environmental scientists and geoscientists
+Line item,19-2041,"Environmental scientists and specialists, including health"
+Line item,19-2042,"Geoscientists, except hydrologists and geographers"
+Line item,19-2043,Hydrologists
+Line item,19-2099,"Physical scientists, all other"
+Summary,19-3000,Social scientists and related workers
+Line item,19-3011,Economists
+Line item,19-3022,Survey researchers
+Summary,19-3030,Psychologists
+Line item,19-3031,"Clinical, counseling, and school psychologists"
+Line item,19-3032,Industrial-organizational psychologists
+Line item,19-3039,"Psychologists, all other"
+Line item,19-3041,Sociologists
+Line item,19-3051,Urban and regional planners
+Summary,19-3090,Miscellaneous social scientists and related workers
+Line item,19-3091,Anthropologists and archeologists
+Line item,19-3092,Geographers
+Line item,19-3093,Historians
+Line item,19-3094,Political scientists
+Line item,19-3099,"Social scientists and related workers, all other"
+Summary,19-4000,"Life, physical, and social science technicians"
+Line item,19-4011,Agricultural and food science technicians
+Line item,19-4021,Biological technicians
+Line item,19-4031,Chemical technicians
+Line item,19-4041,Geological and petroleum technicians
+Line item,19-4051,Nuclear technicians
+Line item,19-4061,Social science research assistants
+Summary,19-4090,"Miscellaneous life, physical, and social science technicians"
+Line item,19-4091,"Environmental science and protection technicians, including health"
+Line item,19-4092,Forensic science technicians
+Line item,19-4093,Forest and conservation technicians
+Line item,19-4099,"Life, physical, and social science technicians, all other"
+Summary,21-0000,Community and social service occupations
+Summary,21-1000,"Counselors, social workers, and other community and social service specialists"
+Summary,21-1010,Counselors
+Line item,21-1011,Substance abuse and behavioral disorder counselors
+Line item,21-1012,"Educational, guidance, school, and vocational counselors"
+Line item,21-1013,Marriage and family therapists
+Line item,21-1014,Mental health counselors
+Line item,21-1015,Rehabilitation counselors
+Line item,21-1019,"Counselors, all other"
+Summary,21-1020,Social workers
+Line item,21-1021,"Child, family, and school social workers"
+Line item,21-1022,Healthcare social workers
+Line item,21-1023,Mental health and substance abuse social workers
+Line item,21-1029,"Social workers, all other"
+Summary,21-1090,Miscellaneous community and social service specialists
+Line item,21-1091,Health educators
+Line item,21-1092,Probation officers and correctional treatment specialists
+Line item,21-1093,Social and human service assistants
+Line item,21-1094,Community health workers
+Line item,21-1099,"Community and social service specialists, all other"
+Summary,21-2000,Religious workers
+Line item,21-2011,Clergy
+Line item,21-2021,"Directors, religious activities and education"
+Line item,21-2099,"Religious workers, all other"
+Summary,23-0000,Legal occupations
+Summary,23-1000,"Lawyers, judges, and related workers"
+Summary,23-1010,Lawyers and judicial law clerks
+Line item,23-1011,Lawyers
+Line item,23-1012,Judicial law clerks
+Summary,23-1020,"Judges, magistrates, and other judicial workers"
+Line item,23-1021,"Administrative law judges, adjudicators, and hearing officers"
+Line item,23-1022,"Arbitrators, mediators, and conciliators"
+Line item,23-1023,"Judges, magistrate judges, and magistrates"
+Summary,23-2000,Legal support workers
+Line item,23-2011,Paralegals and legal assistants
+Summary,23-2090,Miscellaneous legal support workers
+Line item,23-2091,Court reporters
+Line item,23-2093,"Title examiners, abstractors, and searchers"
+Line item,23-2099,"Legal support workers, all other"
+Summary,25-0000,"Education, training, and library occupations"
+Summary,25-1000,Postsecondary teachers
+Line item,25-1011,"Business teachers, postsecondary"
+Summary,25-1020,"Math and computer teachers, postsecondary"
+Line item,25-1021,"Computer science teachers, postsecondary"
+Line item,25-1022,"Mathematical science teachers, postsecondary"
+Summary,25-1030,"Engineering and architecture teachers, postsecondary"
+Line item,25-1031,"Architecture teachers, postsecondary"
+Line item,25-1032,"Engineering teachers, postsecondary"
+Summary,25-1040,"Life sciences teachers, postsecondary"
+Line item,25-1041,"Agricultural sciences teachers, postsecondary"
+Line item,25-1042,"Biological science teachers, postsecondary"
+Line item,25-1043,"Forestry and conservation science teachers, postsecondary"
+Summary,25-1050,"Physical sciences teachers, postsecondary"
+Line item,25-1051,"Atmospheric, earth, marine, and space sciences teachers, postsecondary"
+Line item,25-1052,"Chemistry teachers, postsecondary"
+Line item,25-1053,"Environmental science teachers, postsecondary"
+Line item,25-1054,"Physics teachers, postsecondary"
+Summary,25-1060,"Social sciences teachers, postsecondary"
+Line item,25-1061,"Anthropology and archeology teachers, postsecondary"
+Line item,25-1062,"Area, ethnic, and cultural studies teachers, postsecondary"
+Line item,25-1063,"Economics teachers, postsecondary"
+Line item,25-1064,"Geography teachers, postsecondary"
+Line item,25-1065,"Political science teachers, postsecondary"
+Line item,25-1066,"Psychology teachers, postsecondary"
+Line item,25-1067,"Sociology teachers, postsecondary"
+Line item,25-1069,"Social sciences teachers, postsecondary, all other"
+Summary,25-1070,"Health teachers, postsecondary"
+Line item,25-1071,"Health specialties teachers, postsecondary"
+Line item,25-1072,"Nursing instructors and teachers, postsecondary"
+Summary,25-1080,"Education and library science teachers, postsecondary"
+Line item,25-1081,"Education teachers, postsecondary"
+Line item,25-1082,"Library science teachers, postsecondary"
+Summary,25-1110,"Law, criminal justice, and social work teachers, postsecondary"
+Line item,25-1111,"Criminal justice and law enforcement teachers, postsecondary"
+Line item,25-1112,"Law teachers, postsecondary"
+Line item,25-1113,"Social work teachers, postsecondary"
+Summary,25-1120,"Arts, communications, and humanities teachers, postsecondary"
+Line item,25-1121,"Art, drama, and music teachers, postsecondary"
+Line item,25-1122,"Communications teachers, postsecondary"
+Line item,25-1123,"English language and literature teachers, postsecondary"
+Line item,25-1124,"Foreign language and literature teachers, postsecondary"
+Line item,25-1125,"History teachers, postsecondary"
+Line item,25-1126,"Philosophy and religion teachers, postsecondary"
+Summary,25-1190,Miscellaneous postsecondary teachers
+Line item,25-1191,Graduate teaching assistants
+Line item,25-1192,"Home economics teachers, postsecondary"
+Line item,25-1193,"Recreation and fitness studies teachers, postsecondary"
+Line item,25-1194,"Vocational education teachers, postsecondary"
+Line item,25-1199,"Postsecondary teachers, all other"
+Summary,25-2000,"Preschool, primary, secondary, and special education school teachers"
+Summary,25-2010,Preschool and kindergarten teachers
+Line item,25-2011,"Preschool teachers, except special education"
+Line item,25-2012,"Kindergarten teachers, except special education"
+Summary,25-2020,Elementary and middle school teachers
+Line item,25-2021,"Elementary school teachers, except special education"
+Line item,25-2022,"Middle school teachers, except special and career/technical education"
+Line item,25-2023,"Career/technical education teachers, middle school"
+Summary,25-2030,Secondary school teachers
+Line item,25-2031,"Secondary school teachers, except special and career/technical education"
+Line item,25-2032,"Career/technical education teachers, secondary school"
+Summary,25-2050,Special education teachers
+Line item,25-2051,"Special education teachers, preschool"
+Line item,25-2052,"Special education teachers, kindergarten and elementary school"
+Line item,25-2053,"Special education teachers, middle school"
+Line item,25-2054,"Special education teachers, secondary school"
+Line item,25-2059,"Special education teachers, all other"
+Summary,25-3000,Other teachers and instructors
+Line item,25-3011,Adult basic and secondary education and literacy teachers and instructors
+Line item,25-3021,Self-enrichment education teachers
+Line item,25-3099,"Teachers and instructors, all other"
+Summary,25-4000,"Librarians, curators, and archivists"
+Summary,25-4010,"Archivists, curators, and museum technicians"
+Line item,25-4011,Archivists
+Line item,25-4012,Curators
+Line item,25-4013,Museum technicians and conservators
+Line item,25-4021,Librarians
+Line item,25-4031,Library technicians
+Summary,25-9000,"Other education, training, and library occupations"
+Line item,25-9011,Audio-visual and multimedia collections specialists
+Line item,25-9021,Farm and home management advisors
+Line item,25-9031,Instructional coordinators
+Line item,25-9041,Teacher assistants
+Line item,25-9099,"Education, training, and library workers, all other"
+Summary,27-0000,"Arts, design, entertainment, sports, and media occupations"
+Summary,27-1000,Art and design workers
+Summary,27-1010,Artists and related workers
+Line item,27-1011,Art directors
+Line item,27-1012,Craft artists
+Line item,27-1013,"Fine artists, including painters, sculptors, and illustrators"
+Line item,27-1014,Multimedia artists and animators
+Line item,27-1019,"Artists and related workers, all other"
+Summary,27-1020,Designers
+Line item,27-1021,Commercial and industrial designers
+Line item,27-1022,Fashion designers
+Line item,27-1023,Floral designers
+Line item,27-1024,Graphic designers
+Line item,27-1025,Interior designers
+Line item,27-1026,Merchandise displayers and window trimmers
+Line item,27-1027,Set and exhibit designers
+Line item,27-1029,"Designers, all other"
+Summary,27-2000,"Entertainers and performers, sports and related workers"
+Summary,27-2010,"Actors, producers, and directors"
+Line item,27-2011,Actors
+Line item,27-2012,Producers and directors
+Summary,27-2020,"Athletes, coaches, umpires, and related workers"
+Line item,27-2021,Athletes and sports competitors
+Line item,27-2022,Coaches and scouts
+Line item,27-2023,"Umpires, referees, and other sports officials"
+Summary,27-2030,Dancers and choreographers
+Line item,27-2031,Dancers
+Line item,27-2032,Choreographers
+Summary,27-2040,"Musicians, singers, and related workers"
+Line item,27-2041,Music directors and composers
+Line item,27-2042,Musicians and singers
+Line item,27-2099,"Entertainers and performers, sports and related workers, all other"
+Summary,27-3000,Media and communication workers
+Summary,27-3010,Announcers
+Line item,27-3011,Radio and television announcers
+Line item,27-3012,Public address system and other announcers
+Summary,27-3020,"News analysts, reporters and correspondents"
+Line item,27-3021,Broadcast news analysts
+Line item,27-3022,Reporters and correspondents
+Line item,27-3031,Public relations specialists
+Summary,27-3040,Writers and editors
+Line item,27-3041,Editors
+Line item,27-3042,Technical writers
+Line item,27-3043,Writers and authors
+Summary,27-3090,Miscellaneous media and communication workers
+Line item,27-3091,Interpreters and translators
+Line item,27-3099,"Media and communication workers, all other"
+Summary,27-4000,Media and communication equipment workers
+Summary,27-4010,Broadcast and sound engineering technicians and radio operators
+Line item,27-4011,Audio and video equipment technicians
+Line item,27-4012,Broadcast technicians
+Line item,27-4013,Radio operators
+Line item,27-4014,Sound engineering technicians
+Line item,27-4021,Photographers
+Summary,27-4030,"Television, video, and motion picture camera operators and editors"
+Line item,27-4031,"Camera operators, television, video, and motion picture"
+Line item,27-4032,Film and video editors
+Line item,27-4099,"Media and communication equipment workers, all other"
+Summary,29-0000,Healthcare practitioners and technical occupations
+Summary,29-1000,Health diagnosing and treating practitioners
+Line item,29-1011,Chiropractors
+Summary,29-1020,Dentists
+Line item,29-1021,"Dentists, general"
+Line item,29-1022,Oral and maxillofacial surgeons
+Line item,29-1023,Orthodontists
+Line item,29-1024,Prosthodontists
+Line item,29-1029,"Dentists, all other specialists"
+Line item,29-1031,Dietitians and nutritionists
+Line item,29-1041,Optometrists
+Line item,29-1051,Pharmacists
+Summary,29-1060,Physicians and surgeons
+Line item,29-1061,Anesthesiologists
+Line item,29-1062,Family and general practitioners
+Line item,29-1063,"Internists, general"
+Line item,29-1064,Obstetricians and gynecologists
+Line item,29-1065,"Pediatricians, general"
+Line item,29-1066,Psychiatrists
+Line item,29-1067,Surgeons
+Line item,29-1069,"Physicians and surgeons, all other"
+Line item,29-1071,Physician assistants
+Line item,29-1081,Podiatrists
+Summary,29-1120,Therapists
+Line item,29-1122,Occupational therapists
+Line item,29-1123,Physical therapists
+Line item,29-1124,Radiation therapists
+Line item,29-1125,Recreational therapists
+Line item,29-1126,Respiratory therapists
+Line item,29-1127,Speech-language pathologists
+Line item,29-1128,Exercise physiologists
+Line item,29-1129,"Therapists, all other"
+Line item,29-1131,Veterinarians
+Line item,29-1141,Registered nurses
+Line item,29-1151,Nurse anesthetists
+Line item,29-1161,Nurse midwives
+Line item,29-1171,Nurse practitioners
+Line item,29-1181,Audiologists
+Line item,29-1199,"Health diagnosing and treating practitioners, all other"
+Summary,29-2000,Health technologists and technicians
+Summary,29-2010,Clinical laboratory technologists and technicians
+Line item,29-2011,Medical and clinical laboratory technologists
+Line item,29-2012,Medical and clinical laboratory technicians
+Line item,29-2021,Dental hygienists
+Summary,29-2030,Diagnostic related technologists and technicians
+Line item,29-2031,Cardiovascular technologists and technicians
+Line item,29-2032,Diagnostic medical sonographers
+Line item,29-2033,Nuclear medicine technologists
+Line item,29-2034,Radiologic technologists
+Line item,29-2035,Magnetic resonance imaging technologists
+Line item,29-2041,Emergency medical technicians and paramedics
+Summary,29-2050,Health practitioner support technologists and technicians
+Line item,29-2051,Dietetic technicians
+Line item,29-2052,Pharmacy technicians
+Line item,29-2053,Psychiatric technicians
+Line item,29-2054,Respiratory therapy technicians
+Line item,29-2055,Surgical technologists
+Line item,29-2056,Veterinary technologists and technicians
+Line item,29-2057,Ophthalmic medical technicians
+Line item,29-2061,Licensed practical and licensed vocational nurses
+Line item,29-2071,Medical records and health information technicians
+Line item,29-2081,"Opticians, dispensing"
+Summary,29-2090,Miscellaneous health technologists and technicians
+Line item,29-2091,Orthotists and prosthetists
+Line item,29-2092,Hearing aid specialists
+Line item,29-2099,"Health technologists and technicians, all other"
+Summary,29-9000,Other healthcare practitioners and technical occupations
+Summary,29-9010,Occupational health and safety specialists and technicians
+Line item,29-9011,Occupational health and safety specialists
+Line item,29-9012,Occupational health and safety technicians
+Summary,29-9090,Miscellaneous health practitioners and technical workers
+Line item,29-9091,Athletic trainers
+Line item,29-9092,Genetic counselors
+Line item,29-9099,"Healthcare practitioners and technical workers, all other"
+Summary,31-0000,Healthcare support occupations
+Summary,31-1000,"Nursing, psychiatric, and home health aides"
+Line item,31-1011,Home health aides
+Line item,31-1013,Psychiatric aides
+Line item,31-1014,Nursing assistants
+Line item,31-1015,Orderlies
+Summary,31-2000,Occupational therapy and physical therapist assistants and aides
+Summary,31-2010,Occupational therapy assistants and aides
+Line item,31-2011,Occupational therapy assistants
+Line item,31-2012,Occupational therapy aides
+Summary,31-2020,Physical therapist assistants and aides
+Line item,31-2021,Physical therapist assistants
+Line item,31-2022,Physical therapist aides
+Summary,31-9000,Other healthcare support occupations
+Line item,31-9011,Massage therapists
+Summary,31-9090,Miscellaneous healthcare support occupations
+Line item,31-9091,Dental assistants
+Line item,31-9092,Medical assistants
+Line item,31-9093,Medical equipment preparers
+Line item,31-9094,Medical transcriptionists
+Line item,31-9095,Pharmacy aides
+Line item,31-9096,Veterinary assistants and laboratory animal caretakers
+Line item,31-9097,Phlebotomists
+Line item,31-9099,"Healthcare support workers, all other"
+Summary,33-0000,Protective service occupations
+Summary,33-1000,Supervisors of protective service workers
+Summary,33-1010,First-line supervisors of law enforcement workers
+Line item,33-1011,First-line supervisors of correctional officers
+Line item,33-1012,First-line supervisors of police and detectives
+Line item,33-1021,First-line supervisors of fire fighting and prevention workers
+Line item,33-1099,"First-line supervisors of protective service workers, all other"
+Summary,33-2000,Fire fighting and prevention workers
+Line item,33-2011,Firefighters
+Summary,33-2020,Fire inspectors
+Line item,33-2021,Fire inspectors and investigators
+Line item,33-2022,Forest fire inspectors and prevention specialists
+Summary,33-3000,Law enforcement workers
+Summary,33-3010,"Bailiffs, correctional officers, and jailers"
+Line item,33-3011,Bailiffs
+Line item,33-3012,Correctional officers and jailers
+Line item,33-3021,Detectives and criminal investigators
+Line item,33-3031,Fish and game wardens
+Line item,33-3041,Parking enforcement workers
+Summary,33-3050,Police officers
+Line item,33-3051,Police and sheriff's patrol officers
+Line item,33-3052,Transit and railroad police
+Summary,33-9000,Other protective service workers
+Line item,33-9011,Animal control workers
+Line item,33-9021,Private detectives and investigators
+Summary,33-9030,Security guards and gaming surveillance officers
+Line item,33-9031,Gaming surveillance officers and gaming investigators
+Line item,33-9032,Security guards
+Summary,33-9090,Miscellaneous protective service workers
+Line item,33-9091,Crossing guards
+Line item,33-9092,"Lifeguards, ski patrol, and other recreational protective service workers"
+Line item,33-9093,Transportation security screeners
+Line item,33-9099,"Protective service workers, all other"
+Summary,35-0000,Food preparation and serving related occupations
+Summary,35-1000,Supervisors of food preparation and serving workers
+Line item,35-1011,Chefs and head cooks
+Line item,35-1012,First-line supervisors of food preparation and serving workers
+Summary,35-2000,Cooks and food preparation workers
+Summary,35-2010,Cooks
+Line item,35-2011,"Cooks, fast food"
+Line item,35-2012,"Cooks, institution and cafeteria"
+Line item,35-2013,"Cooks, private household"
+Line item,35-2014,"Cooks, restaurant"
+Line item,35-2015,"Cooks, short order"
+Line item,35-2019,"Cooks, all other"
+Line item,35-2021,Food preparation workers
+Summary,35-3000,Food and beverage serving workers
+Line item,35-3011,Bartenders
+Summary,35-3020,Fast food and counter workers
+Line item,35-3021,"Combined food preparation and serving workers, including fast food"
+Line item,35-3022,"Counter attendants, cafeteria, food concession, and coffee shop"
+Line item,35-3031,Waiters and waitresses
+Line item,35-3041,"Food servers, nonrestaurant"
+Summary,35-9000,Other food preparation and serving related workers
+Line item,35-9011,Dining room and cafeteria attendants and bartender helpers
+Line item,35-9021,Dishwashers
+Line item,35-9031,"Hosts and hostesses, restaurant, lounge, and coffee shop"
+Line item,35-9099,"Food preparation and serving related workers, all other"
+Summary,37-0000,Building and grounds cleaning and maintenance occupations
+Summary,37-1000,Supervisors of building and grounds cleaning and maintenance workers
+Line item,37-1011,First-line supervisors of housekeeping and janitorial workers
+Line item,37-1012,"First-line supervisors of landscaping, lawn service, and groundskeeping workers"
+Summary,37-2000,Building cleaning and pest control workers
+Summary,37-2010,Building cleaning workers
+Line item,37-2011,"Janitors and cleaners, except maids and housekeeping cleaners"
+Line item,37-2012,Maids and housekeeping cleaners
+Line item,37-2019,"Building cleaning workers, all other"
+Line item,37-2021,Pest control workers
+Summary,37-3000,Grounds maintenance workers
+Line item,37-3011,Landscaping and groundskeeping workers
+Line item,37-3012,"Pesticide handlers, sprayers, and applicators, vegetation"
+Line item,37-3013,Tree trimmers and pruners
+Line item,37-3019,"Grounds maintenance workers, all other"
+Summary,39-0000,Personal care and service occupations
+Summary,39-1000,Supervisors of personal care and service workers
+Summary,39-1010,First-line supervisors of gaming workers
+Line item,39-1011,Gaming supervisors
+Line item,39-1012,Slot supervisors
+Line item,39-1021,First-line supervisors of personal service workers
+Summary,39-2000,Animal care and service workers
+Line item,39-2011,Animal trainers
+Line item,39-2021,Nonfarm animal caretakers
+Summary,39-3000,Entertainment attendants and related workers
+Summary,39-3010,Gaming services workers
+Line item,39-3011,Gaming dealers
+Line item,39-3012,Gaming and sports book writers and runners
+Line item,39-3019,"Gaming service workers, all other"
+Line item,39-3021,Motion picture projectionists
+Line item,39-3031,"Ushers, lobby attendants, and ticket takers"
+Summary,39-3090,Miscellaneous entertainment attendants and related workers
+Line item,39-3091,Amusement and recreation attendants
+Line item,39-3092,Costume attendants
+Line item,39-3093,"Locker room, coatroom, and dressing room attendants"
+Line item,39-3099,"Entertainment attendants and related workers, all other"
+Summary,39-4000,Funeral service workers
+Line item,39-4011,Embalmers
+Line item,39-4021,Funeral attendants
+Line item,39-4031,"Morticians, undertakers, and funeral directors"
+Summary,39-5000,Personal appearance workers
+Summary,39-5010,"Barbers, hairdressers, hairstylists and cosmetologists"
+Line item,39-5011,Barbers
+Line item,39-5012,"Hairdressers, hairstylists, and cosmetologists"
+Summary,39-5090,Miscellaneous personal appearance workers
+Line item,39-5091,"Makeup artists, theatrical and performance"
+Line item,39-5092,Manicurists and pedicurists
+Line item,39-5093,Shampooers
+Line item,39-5094,Skincare specialists
+Summary,39-6000,"Baggage porters, bellhops, and concierges"
+Line item,39-6011,Baggage porters and bellhops
+Line item,39-6012,Concierges
+Summary,39-7000,Tour and travel guides
+Line item,39-7011,Tour guides and escorts
+Line item,39-7012,Travel guides
+Summary,39-9000,Other personal care and service workers
+Line item,39-9011,Childcare workers
+Line item,39-9021,Personal care aides
+Summary,39-9030,Recreation and fitness workers
+Line item,39-9031,Fitness trainers and aerobics instructors
+Line item,39-9032,Recreation workers
+Line item,39-9041,Residential advisors
+Line item,39-9099,"Personal care and service workers, all other"
+Summary,41-0000,Sales and related occupations
+Summary,41-1000,Supervisors of sales workers
+Line item,41-1011,First-line supervisors of retail sales workers
+Line item,41-1012,First-line supervisors of non-retail sales workers
+Summary,41-2000,Retail sales workers
+Summary,41-2010,Cashiers
+Line item,41-2011,Cashiers
+Line item,41-2012,Gaming change persons and booth cashiers
+Summary,41-2020,Counter and rental clerks and parts salespersons
+Line item,41-2021,Counter and rental clerks
+Line item,41-2022,Parts salespersons
+Line item,41-2031,Retail salespersons
+Summary,41-3000,"Sales representatives, services"
+Line item,41-3011,Advertising sales agents
+Line item,41-3021,Insurance sales agents
+Line item,41-3031,"Securities, commodities, and financial services sales agents"
+Line item,41-3041,Travel agents
+Line item,41-3099,"Sales representatives, services, all other"
+Summary,41-4000,"Sales representatives, wholesale and manufacturing"
+Line item,41-4011,"Sales representatives, wholesale and manufacturing, technical and scientific products"
+Line item,41-4012,"Sales representatives, wholesale and manufacturing, except technical and scientific products"
+Summary,41-9000,Other sales and related workers
+Summary,41-9010,"Models, demonstrators, and product promoters"
+Line item,41-9011,Demonstrators and product promoters
+Line item,41-9012,Models
+Summary,41-9020,Real estate brokers and sales agents
+Line item,41-9021,Real estate brokers
+Line item,41-9022,Real estate sales agents
+Line item,41-9031,Sales engineers
+Line item,41-9041,Telemarketers
+Summary,41-9090,Miscellaneous sales and related workers
+Line item,41-9091,"Door-to-door sales workers, news and street vendors, and related workers"
+Line item,41-9099,"Sales and related workers, all other"
+Summary,43-0000,Office and administrative support occupations
+Summary,43-1000,Supervisors of office and administrative support workers
+Line item,43-1011,First-line supervisors of office and administrative support workers
+Summary,43-2000,Communications equipment operators
+Line item,43-2011,"Switchboard operators, including answering service"
+Line item,43-2021,Telephone operators
+Line item,43-2099,"Communications equipment operators, all other"
+Summary,43-3000,Financial clerks
+Line item,43-3011,Bill and account collectors
+Line item,43-3021,Billing and posting clerks
+Line item,43-3031,"Bookkeeping, accounting, and auditing clerks"
+Line item,43-3041,Gaming cage workers
+Line item,43-3051,Payroll and timekeeping clerks
+Line item,43-3061,Procurement clerks
+Line item,43-3071,Tellers
+Line item,43-3099,"Financial clerks, all other"
+Summary,43-4000,Information and record clerks
+Line item,43-4011,Brokerage clerks
+Line item,43-4021,Correspondence clerks
+Line item,43-4031,"Court, municipal, and license clerks"
+Line item,43-4041,"Credit authorizers, checkers, and clerks"
+Line item,43-4051,Customer service representatives
+Line item,43-4061,"Eligibility interviewers, government programs"
+Line item,43-4071,File clerks
+Line item,43-4081,"Hotel, motel, and resort desk clerks"
+Line item,43-4111,"Interviewers, except eligibility and loan"
+Line item,43-4121,"Library assistants, clerical"
+Line item,43-4131,Loan interviewers and clerks
+Line item,43-4141,New accounts clerks
+Line item,43-4151,Order clerks
+Line item,43-4161,"Human resources assistants, except payroll and timekeeping"
+Line item,43-4171,Receptionists and information clerks
+Line item,43-4181,Reservation and transportation ticket agents and travel clerks
+Line item,43-4199,"Information and record clerks, all other"
+Summary,43-5000,"Material recording, scheduling, dispatching, and distributing workers"
+Line item,43-5011,Cargo and freight agents
+Line item,43-5021,Couriers and messengers
+Summary,43-5030,Dispatchers
+Line item,43-5031,"Police, fire, and ambulance dispatchers"
+Line item,43-5032,"Dispatchers, except police, fire, and ambulance"
+Line item,43-5041,"Meter readers, utilities"
+Summary,43-5050,Postal service workers
+Line item,43-5051,Postal service clerks
+Line item,43-5052,Postal service mail carriers
+Line item,43-5053,"Postal service mail sorters, processors, and processing machine operators"
+Line item,43-5061,"Production, planning, and expediting clerks"
+Line item,43-5071,"Shipping, receiving, and traffic clerks"
+Line item,43-5081,Stock clerks and order fillers
+Line item,43-5111,"Weighers, measurers, checkers, and samplers, recordkeeping"
+Summary,43-6000,Secretaries and administrative assistants
+Line item,43-6011,Executive secretaries and executive administrative assistants
+Line item,43-6012,Legal secretaries
+Line item,43-6013,Medical secretaries
+Line item,43-6014,"Secretaries and administrative assistants, except legal, medical, and executive"
+Summary,43-9000,Other office and administrative support workers
+Line item,43-9011,Computer operators
+Summary,43-9020,Data entry and information processing workers
+Line item,43-9021,Data entry keyers
+Line item,43-9022,Word processors and typists
+Line item,43-9031,Desktop publishers
+Line item,43-9041,Insurance claims and policy processing clerks
+Line item,43-9051,"Mail clerks and mail machine operators, except postal service"
+Line item,43-9061,"Office clerks, general"
+Line item,43-9071,"Office machine operators, except computer"
+Line item,43-9081,Proofreaders and copy markers
+Line item,43-9111,Statistical assistants
+Line item,43-9199,"Office and administrative support workers, all other"
+Summary,45-0000,"Farming, fishing, and forestry occupations"
+Summary,45-1000,"Supervisors of farming, fishing, and forestry workers"
+Line item,45-1011,"First-line supervisors of farming, fishing, and forestry workers"
+Summary,45-2000,Agricultural workers
+Line item,45-2011,Agricultural inspectors
+Line item,45-2021,Animal breeders
+Line item,45-2041,"Graders and sorters, agricultural products"
+Summary,45-2090,Miscellaneous agricultural workers
+Line item,45-2091,Agricultural equipment operators
+Line item,45-2092,"Farmworkers and laborers, crop, nursery, and greenhouse"
+Line item,45-2093,"Farmworkers, farm, ranch, and aquacultural animals"
+Line item,45-2099,"Agricultural workers, all other"
+Line item,45-3000,Fishing and hunting workers
+Summary,45-4000,"Forest, conservation, and logging workers"
+Line item,45-4011,Forest and conservation workers
+Summary,45-4020,Logging workers
+Line item,45-4021,Fallers
+Line item,45-4022,Logging equipment operators
+Line item,45-4023,Log graders and scalers
+Line item,45-4029,"Logging workers, all other"
+Summary,47-0000,Construction and extraction occupations
+Summary,47-1000,Supervisors of construction and extraction workers
+Line item,47-1011,First-line supervisors of construction trades and extraction workers
+Summary,47-2000,Construction trades workers
+Line item,47-2011,Boilermakers
+Summary,47-2020,"Brickmasons, blockmasons, and stonemasons"
+Line item,47-2021,Brickmasons and blockmasons
+Line item,47-2022,Stonemasons
+Line item,47-2031,Carpenters
+Summary,47-2040,"Carpet, floor, and tile installers and finishers"
+Line item,47-2041,Carpet installers
+Line item,47-2042,"Floor layers, except carpet, wood, and hard tiles"
+Line item,47-2043,Floor sanders and finishers
+Line item,47-2044,Tile and marble setters
+Summary,47-2050,"Cement masons, concrete finishers, and terrazzo workers"
+Line item,47-2051,Cement masons and concrete finishers
+Line item,47-2053,Terrazzo workers and finishers
+Line item,47-2061,Construction laborers
+Summary,47-2070,Construction equipment operators
+Line item,47-2071,"Paving, surfacing, and tamping equipment operators"
+Line item,47-2072,Pile-driver operators
+Line item,47-2073,Operating engineers and other construction equipment operators
+Summary,47-2080,"Drywall installers, ceiling tile installers, and tapers"
+Line item,47-2081,Drywall and ceiling tile installers
+Line item,47-2082,Tapers
+Line item,47-2111,Electricians
+Line item,47-2121,Glaziers
+Summary,47-2130,Insulation workers
+Line item,47-2131,"Insulation workers, floor, ceiling, and wall"
+Line item,47-2132,"Insulation workers, mechanical"
+Summary,47-2140,Painters and paperhangers
+Line item,47-2141,"Painters, construction and maintenance"
+Line item,47-2142,Paperhangers
+Summary,47-2150,"Pipelayers, plumbers, pipefitters, and steamfitters"
+Line item,47-2151,Pipelayers
+Line item,47-2152,"Plumbers, pipefitters, and steamfitters"
+Line item,47-2161,Plasterers and stucco masons
+Line item,47-2171,Reinforcing iron and rebar workers
+Line item,47-2181,Roofers
+Line item,47-2211,Sheet metal workers
+Line item,47-2221,Structural iron and steel workers
+Line item,47-2231,Solar photovoltaic installers
+Summary,47-3000,"Helpers, construction trades"
+Line item,47-3011,"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters"
+Line item,47-3012,Helpers--carpenters
+Line item,47-3013,Helpers--electricians
+Line item,47-3014,"Helpers--painters, paperhangers, plasterers, and stucco masons"
+Line item,47-3015,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters"
+Line item,47-3016,Helpers--roofers
+Line item,47-3019,"Helpers, construction trades, all other"
+Summary,47-4000,Other construction and related workers
+Line item,47-4011,Construction and building inspectors
+Line item,47-4021,Elevator installers and repairers
+Line item,47-4031,Fence erectors
+Line item,47-4041,Hazardous materials removal workers
+Line item,47-4051,Highway maintenance workers
+Line item,47-4061,Rail-track laying and maintenance equipment operators
+Line item,47-4071,Septic tank servicers and sewer pipe cleaners
+Summary,47-4090,Miscellaneous construction and related workers
+Line item,47-4091,Segmental pavers
+Line item,47-4099,"Construction and related workers, all other"
+Summary,47-5000,Extraction workers
+Summary,47-5010,"Derrick, rotary drill, and service unit operators, oil, gas, and mining"
+Line item,47-5011,"Derrick operators, oil and gas"
+Line item,47-5012,"Rotary drill operators, oil and gas"
+Line item,47-5013,"Service unit operators, oil, gas, and mining"
+Line item,47-5021,"Earth drillers, except oil and gas"
+Line item,47-5031,"Explosives workers, ordnance handling experts, and blasters"
+Summary,47-5040,Mining machine operators
+Line item,47-5041,Continuous mining machine operators
+Line item,47-5042,Mine cutting and channeling machine operators
+Line item,47-5049,"Mining machine operators, all other"
+Line item,47-5051,"Rock splitters, quarry"
+Line item,47-5061,"Roof bolters, mining"
+Line item,47-5071,"Roustabouts, oil and gas"
+Line item,47-5081,Helpers--extraction workers
+Line item,47-5099,"Extraction workers, all other"
+Summary,49-0000,"Installation, maintenance, and repair occupations"
+Summary,49-1000,"Supervisors of installation, maintenance, and repair workers"
+Line item,49-1011,"First-line supervisors of mechanics, installers, and repairers"
+Summary,49-2000,"Electrical and electronic equipment mechanics, installers, and repairers"
+Line item,49-2011,"Computer, automated teller, and office machine repairers"
+Summary,49-2020,Radio and telecommunications equipment installers and repairers
+Line item,49-2021,"Radio, cellular, and tower equipment installers and repairs"
+Line item,49-2022,"Telecommunications equipment installers and repairers, except line installers"
+Summary,49-2090,"Miscellaneous electrical and electronic equipment mechanics, installers, and repairers"
+Line item,49-2091,Avionics technicians
+Line item,49-2092,"Electric motor, power tool, and related repairers"
+Line item,49-2093,"Electrical and electronics installers and repairers, transportation equipment"
+Line item,49-2094,"Electrical and electronics repairers, commercial and industrial equipment"
+Line item,49-2095,"Electrical and electronics repairers, powerhouse, substation, and relay"
+Line item,49-2096,"Electronic equipment installers and repairers, motor vehicles"
+Line item,49-2097,Electronic home entertainment equipment installers and repairers
+Line item,49-2098,Security and fire alarm systems installers
+Summary,49-3000,"Vehicle and mobile equipment mechanics, installers, and repairers"
+Line item,49-3011,Aircraft mechanics and service technicians
+Summary,49-3020,Automotive technicians and repairers
+Line item,49-3021,Automotive body and related repairers
+Line item,49-3022,Automotive glass installers and repairers
+Line item,49-3023,Automotive service technicians and mechanics
+Line item,49-3031,Bus and truck mechanics and diesel engine specialists
+Summary,49-3040,Heavy vehicle and mobile equipment service technicians and mechanics
+Line item,49-3041,Farm equipment mechanics and service technicians
+Line item,49-3042,"Mobile heavy equipment mechanics, except engines"
+Line item,49-3043,Rail car repairers
+Summary,49-3050,Small engine mechanics
+Line item,49-3051,Motorboat mechanics and service technicians
+Line item,49-3052,Motorcycle mechanics
+Line item,49-3053,Outdoor power equipment and other small engine mechanics
+Summary,49-3090,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers"
+Line item,49-3091,Bicycle repairers
+Line item,49-3092,Recreational vehicle service technicians
+Line item,49-3093,Tire repairers and changers
+Summary,49-9000,"Other installation, maintenance, and repair occupations"
+Summary,49-9010,Control and valve installers and repairers
+Line item,49-9011,Mechanical door repairers
+Line item,49-9012,"Control and valve installers and repairers, except mechanical door"
+Line item,49-9021,"Heating, air conditioning, and refrigeration mechanics and installers"
+Line item,49-9031,Home appliance repairers
+Summary,49-9040,"Industrial machinery installation, repair, and maintenance workers"
+Line item,49-9041,Industrial machinery mechanics
+Line item,49-9043,"Maintenance workers, machinery"
+Line item,49-9044,Millwrights
+Line item,49-9045,"Refractory materials repairers, except brickmasons"
+Summary,49-9050,Line installers and repairers
+Line item,49-9051,Electrical power-line installers and repairers
+Line item,49-9052,Telecommunications line installers and repairers
+Summary,49-9060,Precision instrument and equipment repairers
+Line item,49-9061,Camera and photographic equipment repairers
+Line item,49-9062,Medical equipment repairers
+Line item,49-9063,Musical instrument repairers and tuners
+Line item,49-9064,Watch repairers
+Line item,49-9069,"Precision instrument and equipment repairers, all other"
+Line item,49-9071,"Maintenance and repair workers, general"
+Line item,49-9081,Wind turbine service technicians
+Summary,49-9090,"Miscellaneous installation, maintenance, and repair workers"
+Line item,49-9091,"Coin, vending, and amusement machine servicers and repairers"
+Line item,49-9092,Commercial divers
+Line item,49-9093,"Fabric menders, except garment"
+Line item,49-9094,Locksmiths and safe repairers
+Line item,49-9095,Manufactured building and mobile home installers
+Line item,49-9096,Riggers
+Line item,49-9097,Signal and track switch repairers
+Line item,49-9098,"Helpers--installation, maintenance, and repair workers"
+Line item,49-9099,"Installation, maintenance, and repair workers, all other"
+Summary,51-0000,Production occupations
+Summary,51-1000,Supervisors of production workers
+Line item,51-1011,First-line supervisors of production and operating workers
+Summary,51-2000,Assemblers and fabricators
+Line item,51-2011,"Aircraft structure, surfaces, rigging, and systems assemblers"
+Summary,51-2020,"Electrical, electronics, and electromechanical assemblers"
+Line item,51-2021,"Coil winders, tapers, and finishers"
+Line item,51-2022,Electrical and electronic equipment assemblers
+Line item,51-2023,Electromechanical equipment assemblers
+Line item,51-2031,Engine and other machine assemblers
+Line item,51-2041,Structural metal fabricators and fitters
+Summary,51-2090,Miscellaneous assemblers and fabricators
+Line item,51-2091,Fiberglass laminators and fabricators
+Line item,51-2092,Team assemblers
+Line item,51-2093,Timing device assemblers and adjusters
+Line item,51-2099,"Assemblers and fabricators, all other"
+Summary,51-3000,Food processing workers
+Line item,51-3011,Bakers
+Summary,51-3020,"Butchers and other meat, poultry, and fish processing workers"
+Line item,51-3021,Butchers and meat cutters
+Line item,51-3022,"Meat, poultry, and fish cutters and trimmers"
+Line item,51-3023,Slaughterers and meat packers
+Summary,51-3090,Miscellaneous food processing workers
+Line item,51-3091,"Food and tobacco roasting, baking, and drying machine operators and tenders"
+Line item,51-3092,Food batchmakers
+Line item,51-3093,Food cooking machine operators and tenders
+Line item,51-3099,"Food processing workers, all other"
+Summary,51-4000,Metal workers and plastic workers
+Summary,51-4010,Computer control programmers and operators
+Line item,51-4011,"Computer-controlled machine tool operators, metal and plastic"
+Line item,51-4012,"Computer numerically controlled machine tool programmers, metal and plastic"
+Summary,51-4020,"Forming machine setters, operators, and tenders, metal and plastic"
+Line item,51-4021,"Extruding and drawing machine setters, operators, and tenders, metal and plastic"
+Line item,51-4022,"Forging machine setters, operators, and tenders, metal and plastic"
+Line item,51-4023,"Rolling machine setters, operators, and tenders, metal and plastic"
+Summary,51-4030,"Machine tool cutting setters, operators, and tenders, metal and plastic"
+Line item,51-4031,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic"
+Line item,51-4032,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic"
+Line item,51-4033,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic"
+Line item,51-4034,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic"
+Line item,51-4035,"Milling and planing machine setters, operators, and tenders, metal and plastic"
+Line item,51-4041,Machinists
+Summary,51-4050,"Metal furnace operators, tenders, pourers, and casters"
+Line item,51-4051,Metal-refining furnace operators and tenders
+Line item,51-4052,"Pourers and casters, metal"
+Summary,51-4060,"Model makers and patternmakers, metal and plastic"
+Line item,51-4061,"Model makers, metal and plastic"
+Line item,51-4062,"Patternmakers, metal and plastic"
+Summary,51-4070,"Molders and molding machine setters, operators, and tenders, metal and plastic"
+Line item,51-4071,Foundry mold and coremakers
+Line item,51-4072,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic"
+Line item,51-4081,"Multiple machine tool setters, operators, and tenders, metal and plastic"
+Line item,51-4111,Tool and die makers
+Summary,51-4120,"Welding, soldering, and brazing workers"
+Line item,51-4121,"Welders, cutters, solderers, and brazers"
+Line item,51-4122,"Welding, soldering, and brazing machine setters, operators, and tenders"
+Summary,51-4190,Miscellaneous metal workers and plastic workers
+Line item,51-4191,"Heat treating equipment setters, operators, and tenders, metal and plastic"
+Line item,51-4192,"Layout workers, metal and plastic"
+Line item,51-4193,"Plating and coating machine setters, operators, and tenders, metal and plastic"
+Line item,51-4194,"Tool grinders, filers, and sharpeners"
+Line item,51-4199,"Metal workers and plastic workers, all other"
+Summary,51-5100,Printing workers
+Line item,51-5111,Prepress technicians and workers
+Line item,51-5112,Printing press operators
+Line item,51-5113,Print binding and finishing workers
+Summary,51-6000,"Textile, apparel, and furnishings workers"
+Line item,51-6011,Laundry and dry-cleaning workers
+Line item,51-6021,"Pressers, textile, garment, and related materials"
+Line item,51-6031,Sewing machine operators
+Summary,51-6040,Shoe and leather workers
+Line item,51-6041,Shoe and leather workers and repairers
+Line item,51-6042,Shoe machine operators and tenders
+Summary,51-6050,"Tailors, dressmakers, and sewers"
+Line item,51-6051,"Sewers, hand"
+Line item,51-6052,"Tailors, dressmakers, and custom sewers"
+Summary,51-6060,"Textile machine setters, operators, and tenders"
+Line item,51-6061,Textile bleaching and dyeing machine operators and tenders
+Line item,51-6062,"Textile cutting machine setters, operators, and tenders"
+Line item,51-6063,"Textile knitting and weaving machine setters, operators, and tenders"
+Line item,51-6064,"Textile winding, twisting, and drawing out machine setters, operators, and tenders"
+Summary,51-6090,"Miscellaneous textile, apparel, and furnishings workers"
+Line item,51-6091,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers"
+Line item,51-6092,Fabric and apparel patternmakers
+Line item,51-6093,Upholsterers
+Line item,51-6099,"Textile, apparel, and furnishings workers, all other"
+Summary,51-7000,Woodworkers
+Line item,51-7011,Cabinetmakers and bench carpenters
+Line item,51-7021,Furniture finishers
+Summary,51-7030,"Model makers and patternmakers, wood"
+Line item,51-7031,"Model makers, wood"
+Line item,51-7032,"Patternmakers, wood"
+Summary,51-7040,"Woodworking machine setters, operators, and tenders"
+Line item,51-7041,"Sawing machine setters, operators, and tenders, wood"
+Line item,51-7042,"Woodworking machine setters, operators, and tenders, except sawing"
+Line item,51-7099,"Woodworkers, all other"
+Summary,51-8000,Plant and system operators
+Summary,51-8010,"Power plant operators, distributors, and dispatchers"
+Line item,51-8011,Nuclear power reactor operators
+Line item,51-8012,Power distributors and dispatchers
+Line item,51-8013,Power plant operators
+Line item,51-8021,Stationary engineers and boiler operators
+Line item,51-8031,Water and wastewater treatment plant and system operators
+Summary,51-8090,Miscellaneous plant and system operators
+Line item,51-8091,Chemical plant and system operators
+Line item,51-8092,Gas plant operators
+Line item,51-8093,"Petroleum pump system operators, refinery operators, and gaugers"
+Line item,51-8099,"Plant and system operators, all other"
+Summary,51-9000,Other production occupations
+Summary,51-9010,"Chemical processing machine setters, operators, and tenders"
+Line item,51-9011,Chemical equipment operators and tenders
+Line item,51-9012,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders"
+Summary,51-9020,"Crushing, grinding, polishing, mixing, and blending workers"
+Line item,51-9021,"Crushing, grinding, and polishing machine setters, operators, and tenders"
+Line item,51-9022,"Grinding and polishing workers, hand"
+Line item,51-9023,"Mixing and blending machine setters, operators, and tenders"
+Summary,51-9030,Cutting workers
+Line item,51-9031,"Cutters and trimmers, hand"
+Line item,51-9032,"Cutting and slicing machine setters, operators, and tenders"
+Line item,51-9041,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders"
+Line item,51-9051,"Furnace, kiln, oven, drier, and kettle operators and tenders"
+Line item,51-9061,"Inspectors, testers, sorters, samplers, and weighers"
+Line item,51-9071,Jewelers and precious stone and metal workers
+Summary,51-9080,"Medical, dental, and ophthalmic laboratory technicians"
+Line item,51-9081,Dental laboratory technicians
+Line item,51-9082,Medical appliance technicians
+Line item,51-9083,Ophthalmic laboratory technicians
+Line item,51-9111,Packaging and filling machine operators and tenders
+Summary,51-9120,Painting workers
+Line item,51-9121,"Coating, painting, and spraying machine setters, operators, and tenders"
+Line item,51-9122,"Painters, transportation equipment"
+Line item,51-9123,"Painting, coating, and decorating workers"
+Line item,51-9141,Semiconductor processors
+Line item,51-9151,Photographic process workers and processing machine operators
+Summary,51-9190,Miscellaneous production workers
+Line item,51-9191,Adhesive bonding machine operators and tenders
+Line item,51-9192,"Cleaning, washing, and metal pickling equipment operators and tenders"
+Line item,51-9193,Cooling and freezing equipment operators and tenders
+Line item,51-9194,Etchers and engravers
+Line item,51-9195,"Molders, shapers, and casters, except metal and plastic"
+Line item,51-9196,"Paper goods machine setters, operators, and tenders"
+Line item,51-9197,Tire builders
+Line item,51-9198,Helpers--production workers
+Line item,51-9199,"Production workers, all other"
+Summary,53-0000,Transportation and material moving occupations
+Summary,53-1000,Supervisors of transportation and material moving workers
+Line item,53-1011,Aircraft cargo handling supervisors
+Line item,53-1021,"First-line supervisors of helpers, laborers, and material movers, hand"
+Line item,53-1031,First-line supervisors of transportation and material-moving machine and vehicle operators
+Summary,53-2000,Air transportation workers
+Summary,53-2010,Aircraft pilots and flight engineers
+Line item,53-2011,"Airline pilots, copilots, and flight engineers"
+Line item,53-2012,Commercial pilots
+Summary,53-2020,Air traffic controllers and airfield operations specialists
+Line item,53-2021,Air traffic controllers
+Line item,53-2022,Airfield operations specialists
+Line item,53-2031,Flight attendants
+Summary,53-3000,Motor vehicle operators
+Line item,53-3011,"Ambulance drivers and attendants, except emergency medical technicians"
+Summary,53-3020,Bus drivers
+Line item,53-3021,"Bus drivers, transit and intercity"
+Line item,53-3022,"Bus drivers, school or special client"
+Summary,53-3030,Driver/sales workers and truck drivers
+Line item,53-3031,Driver/sales workers
+Line item,53-3032,Heavy and tractor-trailer truck drivers
+Line item,53-3033,Light truck or delivery services drivers
+Line item,53-3041,Taxi drivers and chauffeurs
+Line item,53-3099,"Motor vehicle operators, all other"
+Summary,53-4000,Rail transportation workers
+Summary,53-4010,Locomotive engineers and operators
+Line item,53-4011,Locomotive engineers
+Line item,53-4012,Locomotive firers
+Line item,53-4013,"Rail yard engineers, dinkey operators, and hostlers"
+Line item,53-4021,"Railroad brake, signal, and switch operators"
+Line item,53-4031,Railroad conductors and yardmasters
+Line item,53-4041,Subway and streetcar operators
+Line item,53-4099,"Rail transportation workers, all other"
+Summary,53-5000,Water transportation workers
+Line item,53-5011,Sailors and marine oilers
+Summary,53-5020,Ship and boat captains and operators
+Line item,53-5021,"Captains, mates, and pilots of water vessels"
+Line item,53-5022,Motorboat operators
+Line item,53-5031,Ship engineers
+Summary,53-6000,Other transportation workers
+Line item,53-6011,Bridge and lock tenders
+Line item,53-6021,Parking lot attendants
+Line item,53-6031,Automotive and watercraft service attendants
+Line item,53-6041,Traffic technicians
+Line item,53-6051,Transportation inspectors
+Line item,53-6061,"Transportation attendants, except flight attendants"
+Line item,53-6099,"Transportation workers, all other"
+Summary,53-7000,Material moving workers
+Line item,53-7011,Conveyor operators and tenders
+Line item,53-7021,Crane and tower operators
+Summary,53-7030,"Dredge, excavating, and loading machine operators"
+Line item,53-7031,Dredge operators
+Line item,53-7032,Excavating and loading machine and dragline operators
+Line item,53-7033,"Loading machine operators, underground mining"
+Line item,53-7041,Hoist and winch operators
+Line item,53-7051,Industrial truck and tractor operators
+Summary,53-7060,"Laborers and material movers, hand"
+Line item,53-7061,Cleaners of vehicles and equipment
+Line item,53-7062,"Laborers and freight, stock, and material movers, hand"
+Line item,53-7063,Machine feeders and offbearers
+Line item,53-7064,"Packers and packagers, hand"
+Summary,53-7070,Pumping station operators
+Line item,53-7071,Gas compressor and gas pumping station operators
+Line item,53-7072,"Pump operators, except wellhead pumpers"
+Line item,53-7073,Wellhead pumpers
+Line item,53-7081,Refuse and recyclable material collectors
+Line item,53-7111,Mine shuttle car operators
+Line item,53-7121,"Tank car, truck, and ship loaders"
+Line item,53-7199,"Material moving workers, all other"
