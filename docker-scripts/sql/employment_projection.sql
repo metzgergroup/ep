@@ -11,6 +11,7 @@ CREATE UNLOGGED TABLE employment_projection (
 \set filepath `echo ${DATA_DIR}`/employment_projection.csv
 COPY employment_projection (occupation_code, industry_code, employment_2016, employment_2026) FROM :'filepath' WITH CSV;
 
+-- Source data is in thousands
 ALTER TABLE employment_projection
     ALTER COLUMN employment_2016 SET DATA TYPE integer USING employment_2016 * 1000,
     ALTER COLUMN employment_2026 SET DATA TYPE integer USING employment_2026 * 1000;

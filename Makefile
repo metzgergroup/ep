@@ -3,7 +3,7 @@ IMAGE_NAME = 899239495551.dkr.ecr.us-east-2.amazonaws.com/ep
 SOURCE_DIR = docker-scripts/data
 PG_VERSION = latest
 
-.PHONY: fix build push
+.PHONY: build push
 
 build:
 	docker build \

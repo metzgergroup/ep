@@ -4,6 +4,8 @@ https://www.bls.gov/emp/data/occupational-data.htm
 
 This repo creates a database image with employment projections.
 
+[BLS page for employment projections](https://www.bls.gov/emp/data/occupational-data.htm)
+
 Download the National Employment Matrix
 
     wget https://www.bls.gov/emp/ind-occ-matrix/matrix.xlsx
