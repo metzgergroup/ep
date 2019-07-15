@@ -1,5 +1,5 @@
 SHELL = /bin/bash
-IMAGE_NAME = 899239495551.dkr.ecr.us-east-2.amazonaws.com/ep
+IMAGE_NAME = gcr.io/acat-shared/ep
 SOURCE_DIR = docker-scripts/data
 PG_VERSION = latest
 
