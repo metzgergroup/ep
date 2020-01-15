@@ -1,487 +1,434 @@
-Summary,TE1000,Total employment
-Line item,TE1100,Self-employed workers
-Summary,TE1200,Total wage and salary employment
-Summary,110000,"Agriculture, forestry, fishing and hunting"
-Line item,111000,Crop production
-Line item,112000,Animal production and aquaculture
-Summary,113000,Forestry and logging
-Line item,1131-2,Forestry
-Line item,113300,Logging
-Line item,114000,"Fishing, hunting and trapping"
-Line item,115000,Support activities for agriculture and forestry
-Summary,210000,"Mining, quarrying, and oil and gas extraction"
-Line item,211000,Oil and gas extraction
-Summary,212000,Mining (except oil and gas)
-Line item,212100,Coal mining
-Line item,212200,Metal ore mining
-Line item,212300,Nonmetallic mineral mining and quarrying
-Line item,213000,Support activities for mining
-Summary,220000,Utilities
-Summary,221000,Utilities
-Summary,221100,"Electric power generation, transmission and distribution"
-Summary,221110,Electric power generation
-Line item,221111,Hydroelectric power generation
-Line item,221112,Fossil fuel electric power generation
-Line item,221113,Nuclear electric power generation
-Line item,221114,Solar electric power generation
-Line item,221115,Wind electric power generation
-Line item,221116,Geothermal electric power generation
-Line item,221117,Biomass electric power generation
-Line item,221118,Other electric power generation
-Line item,221200,Natural gas distribution
-Line item,221300,"Water, sewage and other systems"
-Summary,230000,Construction
-Summary,236000,Construction of buildings
-Line item,236100,Residential building construction
-Line item,236200,Nonresidential building construction
-Summary,237000,Heavy and civil engineering construction
-Summary,237100,Utility system construction
-Line item,237130,Power and communication line and related structures construction
-Line item,237200,Land subdivision
-Line item,237300,"Highway, street, and bridge construction"
-Line item,237900,Other heavy and civil engineering construction
-Summary,238000,Specialty trade contractors
-Summary,238100,"Foundation, structure, and building exterior contractors"
-Line item,238110,Poured concrete foundation and structure contractors
-Line item,238140,Masonry contractors
-Line item,238160,Roofing contractors
-Summary,238200,Building equipment contractors
-Line item,238210,Electrical contractors and other wiring installation contractors
-Line item,238220,"Plumbing, heating, and air-conditioning contractors"
-Line item,238290,Other building equipment contractors
-Summary,238300,Building finishing contractors
-Line item,238310,Drywall and insulation contractors
-Line item,238320,Painting and wall covering contractors
-Line item,238900,Other specialty trade contractors
-Summary,31-330,Manufacturing
-Summary,311000,Food manufacturing
-Line item,311100,Animal food manufacturing
-Line item,311200,Grain and oilseed milling
-Line item,311300,Sugar and confectionery product manufacturing
-Line item,311400,Fruit and vegetable preserving and specialty food manufacturing
-Line item,311500,Dairy product manufacturing
-Line item,311600,Animal slaughtering and processing
-Line item,311700,Seafood product preparation and packaging
-Line item,311800,Bakeries and tortilla manufacturing
-Line item,311900,Other food manufacturing
-Summary,312000,Beverage and tobacco product manufacturing
-Line item,312100,Beverage manufacturing
-Line item,312200,Tobacco manufacturing
-Summary,313-40,Textile mills and textile product mills
-Line item,313000,Textile mills
-Line item,314000,Textile product mills
-Summary,315-60,"Apparel, leather and allied product manufacturing"
-Line item,315000,Apparel manufacturing
-Line item,316000,Leather and allied product manufacturing
-Summary,321000,Wood product manufacturing
-Line item,321100,Sawmills and wood preservation
-Line item,321200,"Veneer, plywood, and engineered wood product manufacturing"
-Line item,321900,Other wood product manufacturing
-Summary,322000,Paper manufacturing
-Line item,322100,"Pulp, paper, and paperboard mills"
-Line item,322200,Converted paper product manufacturing
-Line item,323000,Printing and related support activities
-Line item,324000,Petroleum and coal products manufacturing
-Summary,325000,Chemical manufacturing
-Line item,325100,Basic chemical manufacturing
-Line item,325200,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing"
-Line item,325300,"Pesticide, fertilizer, and other agricultural chemical manufacturing"
-Line item,325400,Pharmaceutical and medicine manufacturing
-Line item,325500,"Paint, coating, and adhesive manufacturing"
-Line item,325600,"Soap, cleaning compound, and toilet preparation manufacturing"
-Line item,325900,Other chemical product and preparation manufacturing
-Summary,326000,Plastics and rubber products manufacturing
-Line item,326100,Plastics product manufacturing
-Line item,326200,Rubber product manufacturing
-Summary,327000,Nonmetallic mineral product manufacturing
-Line item,327100,Clay product and refractory manufacturing
-Line item,327200,Glass and glass product manufacturing
-Line item,327300,Cement and concrete product manufacturing
-Summary,"3274,9","Lime, gypsum and other nonmetallic mineral product manufacturing"
-Line item,327400,Lime and gypsum product manufacturing
-Line item,327900,Other nonmetallic mineral product manufacturing
-Summary,331000,Primary metal manufacturing
-Line item,331100,Iron and steel mills and ferroalloy manufacturing
-Line item,331200,Steel product manufacturing from purchased steel
-Line item,331300,Alumina and aluminum production and processing
-Line item,331400,Nonferrous metal (except aluminum) production and processing
-Line item,331500,Foundries
-Summary,332000,Fabricated metal product manufacturing
-Line item,332100,Forging and stamping
-Line item,332200,Cutlery and handtool manufacturing
-Line item,332300,Architectural and structural metals manufacturing
-Line item,332400,"Boiler, tank, and shipping container manufacturing"
-Line item,332500,Hardware manufacturing
-Line item,332600,Spring and wire product manufacturing
-Summary,332700,"Machine shops; turned product; and screw, nut, and bolt manufacturing"
-Line item,332710,Machine shops
-Line item,332720,"Turned product and screw, nut, and bolt manufacturing"
-Line item,332800,"Coating, engraving, heat treating, and allied activities"
-Line item,332900,Other fabricated metal product manufacturing
-Summary,333000,Machinery manufacturing
-Line item,333100,"Agriculture, construction, and mining machinery manufacturing"
-Line item,333200,Industrial machinery manufacturing
-Line item,333300,Commercial and service industry machinery manufacturing
-Line item,333400,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
-Line item,333500,Metalworking machinery manufacturing
-Line item,333600,"Engine, turbine, and power transmission equipment manufacturing"
-Line item,333900,Other general purpose machinery manufacturing
-Summary,334000,Computer and electronic product manufacturing
-Line item,334100,Computer and peripheral equipment manufacturing
-Line item,334200,Communications equipment manufacturing
-Line item,334300,Audio and video equipment manufacturing
-Line item,334400,Semiconductor and other electronic component manufacturing
-Line item,334500,"Navigational, measuring, electromedical, and control instruments manufacturing"
-Line item,334600,Manufacturing and reproducing magnetic and optical media
-Summary,335000,"Electrical equipment, appliance, and component manufacturing"
-Line item,335100,Electric lighting equipment manufacturing
-Line item,335200,Household appliance manufacturing
-Line item,335300,Electrical equipment manufacturing
-Line item,335900,Other electrical equipment and component manufacturing
-Summary,336000,Transportation equipment manufacturing
-Line item,336100,Motor vehicle manufacturing
-Line item,336200,Motor vehicle body and trailer manufacturing
-Line item,336300,Motor vehicle parts manufacturing
-Line item,336400,Aerospace product and parts manufacturing
-Line item,336500,Railroad rolling stock manufacturing
-Line item,336600,Ship and boat building
-Line item,336900,Other transportation equipment manufacturing
-Summary,337000,Furniture and related product manufacturing
-Summary,337100,Household and institutional furniture and kitchen cabinet manufacturing
-Line item,337110,Wood kitchen cabinet and countertop manufacturing
-Line item,337120,Household and institutional furniture manufacturing
-Line item,337200,Office furniture (including fixtures) manufacturing
-Line item,337900,Other furniture related product manufacturing
-Summary,339000,Miscellaneous manufacturing
-Line item,339100,Medical equipment and supplies manufacturing
-Summary,339900,Other miscellaneous manufacturing
-Line item,339910,Jewelry and silverware manufacturing
-Summary,420000,Wholesale trade
-Summary,423000,"Merchant wholesalers, durable goods"
-Line item,423100,Motor vehicle and motor vehicle parts and supplies merchant wholesalers
-Line item,423200,Furniture and home furnishing merchant wholesalers
-Line item,423300,Lumber and other construction materials merchant wholesalers
-Line item,423400,Professional and commercial equipment and supplies merchant wholesalers
-Line item,423500,Metal and mineral (except petroleum) merchant wholesalers
-Line item,423600,Household appliances and electrical and electronic goods merchant wholesalers
-Line item,423700,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers"
-Summary,423800,"Machinery, equipment, and supplies merchant wholesalers"
-Line item,423820,Farm and garden machinery and equipment merchant wholesalers
-Line item,423900,Miscellaneous durable goods merchant wholesalers
-Summary,424000,"Merchant wholesalers, nondurable goods"
-Line item,424100,Paper and paper product merchant wholesalers
-Line item,424200,Drugs and druggists' sundries merchant wholesalers
-Line item,424300,"Apparel, piece goods, and notions merchant wholesalers"
-Line item,424400,Grocery and related product merchant wholesalers
-Line item,424500,Farm product raw material merchant wholesalers
-Line item,424600,Chemical and allied products merchant wholesalers
-Line item,424700,Petroleum and petroleum products merchant wholesalers
-Line item,424800,"Beer, wine, and distilled alcoholic beverage merchant wholesalers"
-Line item,424900,Miscellaneous nondurable goods merchant wholesalers
-Line item,425000,Wholesale electronic markets and agents and brokers
-Summary,44-450,Retail trade
-Summary,441000,Motor vehicle and parts dealers
-Line item,441100,Automobile dealers
-Line item,441200,Other motor vehicle dealers
-Line item,441300,"Automotive parts, accessories, and tire stores"
-Summary,445000,Food and beverage stores
-Line item,445100,Grocery stores
-Line item,445200,Specialty food stores
-Line item,445300,"Beer, wine, and liquor stores"
-Summary,452000,General merchandise stores
-Line item,452100,Department stores
-Line item,452900,Other general merchandise stores
-Summary,4445R0,"Retail trade, except motor vehicle and parts dealers, food and beverage stores, and general merchandise stores"
-Summary,442000,Furniture and home furnishings stores
-Line item,442100,Furniture stores
-Line item,442200,Home furnishings stores
-Line item,443000,Electronics and appliance stores
-Summary,444000,Building material and garden equipment and supplies dealers
-Line item,444100,Building material and supplies dealers
-Line item,444200,Lawn and garden equipment and supplies stores
-Summary,446000,Health and personal care stores
-Summary,446100,Health and personal care stores
-Line item,446110,Pharmacies and drug stores
-Line item,447000,Gasoline stations
-Summary,448000,Clothing and clothing accessories stores
-Line item,448100,Clothing stores
-Line item,448200,Shoe stores
-Line item,448300,"Jewelry, luggage, and leather goods stores"
-Summary,451000,"Sporting goods, hobby, musical instrument, and book stores"
-Summary,451100,"Sporting goods, hobby, and musical instrument stores"
-Line item,451110,Sporting goods stores
-Line item,451200,Book stores and news dealers
-Summary,453000,Miscellaneous store retailers
-Line item,453100,Florists
-Line item,453200,"Office supplies, stationery, and gift stores"
-Line item,453300,Used merchandise stores
-Line item,453900,Other miscellaneous store retailers
-Summary,454000,Nonstore retailers
-Line item,454100,Electronic shopping and mail-order houses
-Line item,454200,Vending machine operators
-Line item,454300,Direct selling establishments
-Summary,48-490,Transportation and warehousing
-Summary,481000,Air transportation
-Line item,481100,Scheduled air transportation
-Line item,481200,Nonscheduled air transportation
-Line item,482000,Rail transportation
-Summary,483000,Water transportation
-Line item,483100,"Deep sea, coastal, and great lakes water transportation"
-Line item,483200,Inland water transportation
-Summary,484000,Truck transportation
-Line item,484100,General freight trucking
-Line item,484200,Specialized freight trucking
-Summary,485000,Transit and ground passenger transportation
-Line item,485100,Urban transit systems
-Line item,485200,Interurban and rural bus transportation
-Line item,485300,Taxi and limousine service
-Line item,485400,School and employee bus transportation
-Line item,485500,Charter bus industry
-Line item,485900,Other transit and ground passenger transportation
-Summary,486000,Pipeline transportation
-Line item,486100,Pipeline transportation of crude oil
-Line item,486200,Pipeline transportation of natural gas
-Line item,486900,Other pipeline transportation
-Summary,487-80,Scenic and sightseeing transportation and support activities for transportation
-Summary,487000,Scenic and sightseeing transportation
-Line item,487100,"Scenic and sightseeing transportation, land"
-Line item,487200,"Scenic and sightseeing transportation, water"
-Line item,487900,"Scenic and sightseeing transportation, other"
-Summary,488000,Support activities for transportation
-Line item,488100,Support activities for air transportation
-Line item,488200,Support activities for rail transportation
-Line item,488300,Support activities for water transportation
-Line item,488400,Support activities for road transportation
-Line item,488500,Freight transportation arrangement
-Line item,488900,Other support activities for transportation
-Summary,492000,Couriers and messengers
-Line item,492100,Couriers and express delivery services
-Line item,492200,Local messengers and local delivery
-Line item,493000,Warehousing and storage
-Summary,510000,Information
-Summary,511000,Publishing industries (except Internet)
-Summary,511100,"Newspaper, periodical, book, and directory publishers"
-Line item,511110,Newspaper publishers
-Line item,511200,Software publishers
-Summary,512000,Motion picture and sound recording industries
-Summary,512100,Motion picture and video industries
-Line item,512130,Motion picture and video exhibition
-Line item,512200,Sound recording industries
-Summary,515000,Broadcasting (except Internet)
-Summary,515100,Radio and television broadcasting
-Line item,515110,Radio broadcasting
-Line item,515120,Television broadcasting
-Line item,515200,Cable and other subscription programming
-Summary,517000,Telecommunications
-Line item,517100,Wired telecommunications carriers
-Line item,517200,Wireless telecommunications carriers (except satellite)
-Summary,5174-9,"Satellite, telecommunications resellers, and all other telecommunications"
-Line item,517400,Satellite telecommunications
-Line item,517900,Other telecommunications
-Line item,518000,"Data processing, hosting, and related services"
-Line item,519000,Other information services
-Summary,520000,Finance and insurance
-Summary,521-20,"Monetary authorities, credit intermediation, and related activities"
-Line item,521000,Monetary authorities-central bank
-Summary,522000,Credit intermediation and related activities
-Line item,522100,Depository credit intermediation
-Summary,522200,Nondepository credit intermediation
-Line item,522290,Other nondepository credit intermediation
-Line item,522300,Activities related to credit intermediation
-Summary,524000,Insurance carriers and related activities
-Summary,524100,Insurance carriers
-Line item,524114,Direct health and medical insurance carriers
-Line item,524120,"Direct insurance (except life, health, and medical) carriers"
-Summary,524200,"Agencies, brokerages, and other insurance related activities"
-Line item,524210,Insurance agencies and brokerages
-Line item,524290,Other insurance related activities
-Summary,"523,50","Securities, commodity contracts, fund, trusts and other financial investments and vehicles and related activities"
-Summary,523000,"Securities, commodity contracts, and other financial investments and related activities"
-Line item,523100,Securities and commodity contracts intermediation and brokerage
-Line item,523200,Securities and commodity exchanges
-Line item,523900,Other financial investment activities
-Summary,525000,"Funds, trusts, and other financial vehicles"
-Line item,525100,Insurance and employee benefit funds
-Line item,525900,Other investment pools and funds
-Summary,530000,Real estate and rental and leasing
-Summary,531000,Real estate
-Line item,531100,Lessors of real estate
-Line item,531200,Offices of real estate agents and brokers
-Line item,531300,Activities related to real estate
-Summary,532000,Rental and leasing services
-Line item,532100,Automotive equipment rental and leasing
-Summary,5322-3,Consumer goods rental and general rental centers
-Line item,532200,Consumer goods rental
-Line item,532300,General rental centers
-Line item,532400,Commercial and industrial machinery and equipment rental and leasing
-Line item,533000,Lessors of nonfinancial intangible assets (except copyrighted works)
-Summary,540000,"Professional, scientific, and technical services"
-Summary,541000,"Professional, scientific, and technical services"
-Line item,541100,Legal services
-Line item,541200,"Accounting, tax preparation, bookkeeping, and payroll services"
-Summary,541300,"Architectural, engineering, and related services"
-Line item,541330,Engineering services
-Line item,541380,Testing laboratories
-Line item,541400,Specialized design services
-Line item,541500,Computer systems design and related services
-Line item,541600,"Management, scientific, and technical consulting services"
-Summary,541700,Scientific research and development services
-Line item,541710,"Research and development in the physical, engineering, and life sciences"
-Line item,541720,Research and development in the social sciences and humanities
-Line item,541800,"Advertising, public relations, and related services"
-Summary,541900,"Other professional, scientific, and technical services"
-Line item,541920,Photographic services
-Line item,541940,Veterinary services
-Summary,550000,Management of companies and enterprises
-Line item,551000,Management of companies and enterprises
-Summary,560000,Administrative and support and waste management and remediation services
-Summary,561000,Administrative and support services
-Line item,561100,Office administrative services
-Line item,561200,Facilities support services
-Summary,561300,Employment services
-Line item,561320,Temporary help services
-Summary,561400,Business support services
-Line item,561420,Telephone call centers
-Summary,561500,Travel arrangement and reservation services
-Line item,561510,Travel agencies
-Summary,561600,Investigation and security services
-Line item,561610,"Investigation, guard, and armored car services"
-Line item,561620,Security systems services
-Summary,561700,Services to buildings and dwellings
-Line item,561710,Exterminating and pest control services
-Line item,561730,Landscaping services
-Line item,561900,Other support services
-Summary,562000,Waste management and remediation services
-Line item,562100,Waste collection
-Line item,562200,Waste treatment and disposal
-Line item,562900,Remediation and other waste management services
-Summary,610000,"Educational services; state, local, and private"
-Summary,611000,"Educational services; state, local, and private"
-Summary,611100,"Elementary and secondary schools; state, local, and private"
-Line item,611105,Elementary and secondary schools; private
-Line item,611102,Elementary and secondary schools; state
-Line item,611103,Elementary and secondary schools; local
-Summary,6112-3,"Junior colleges, colleges, universities, and professional schools; state, local, and private"
-Summary,611200,"Junior colleges; state, local, and private"
-Line item,611205,Junior colleges; private
-Line item,611202,Junior colleges; state
-Line item,611203,Junior colleges; local
-Summary,611300,"Colleges, universities, and professional schools; state, local, and private"
-Line item,611305,"Colleges, universities, and professional schools; private"
-Line item,611302,"Colleges, universities, and professional schools; state"
-Line item,611303,"Colleges, universities, and professional schools; local"
-Summary,6114-7,"Other educational services; state, local, and private"
-Summary,611400,"Business schools and computer and management training; state, local, and private"
-Line item,611405,Business schools and computer and management training; private
-Line item,611402,Business schools and computer and management training; state
-Line item,611403,Business schools and computer and management training; local
-Summary,611500,"Technical and trade schools; state, local, and private"
-Line item,611505,Technical and trade schools; private
-Line item,611502,Technical and trade schools; state
-Line item,611503,Technical and trade schools; local
-Summary,611600,"Other schools and instruction; state, local, and private"
-Line item,611605,Other schools and instruction; private
-Line item,611602,Other schools and instruction; state
-Line item,611603,Other schools and instruction; local
-Summary,611700,"Educational support services; state, local, and private"
-Line item,611705,Educational support services; private
-Line item,611703,Educational support services; local
-Summary,620000,Healthcare and social assistance
-Summary,621000,Ambulatory healthcare services
-Line item,621100,Offices of physicians
-Line item,621200,Offices of dentists
-Summary,621300,Offices of other health practitioners
-Line item,621310,Offices of chiropractors
-Line item,621320,Offices of optometrists
-Line item,621330,Offices of mental health practitioners (except physicians)
-Line item,621340,"Offices of physical, occupational and speech therapists, and audiologists"
-Line item,621390,Offices of all other health practitioners
-Summary,621400,Outpatient care centers
-Line item,621420,Outpatient mental health and substance abuse centers
-Line item,621500,Medical and diagnostic laboratories
-Line item,621600,Home healthcare services
-Summary,621900,Other ambulatory healthcare services
-Line item,621910,Ambulance services
-Line item,621990,All other ambulatory healthcare services
-Summary,622000,"Hospitals; state, local, and private"
-Summary,622100,"General medical and surgical hospitals; state, local, and private"
-Line item,622105,General medical and surgical hospitals; private
-Line item,622102,General medical and surgical hospitals; state
-Line item,622103,General medical and surgical hospitals; local
-Summary,622200,"Psychiatric and substance abuse hospitals; state, local, and private"
-Line item,622205,Psychiatric and substance abuse hospitals; private
-Line item,622202,Psychiatric and substance abuse hospitals; state
-Line item,622203,Psychiatric and substance abuse hospitals; local
-Summary,622300,"Specialty (except psychiatric and substance abuse) hospitals; state, local, and private"
-Line item,622305,Specialty (except psychiatric and substance abuse) hospitals; private
-Line item,622302,Specialty (except psychiatric and substance abuse) hospitals; state
-Line item,622303,Specialty (except psychiatric and substance abuse) hospitals; local
-Summary,623000,Nursing and residential care facilities
-Line item,623100,Nursing care facilities (skilled nursing facilities)
-Summary,623200,"Residential intellectual and developmental disability, mental health, and substance abuse facilities"
-Line item,623210,Residential intellectual and developmental disability facilities
-Line item,623220,Residential mental health and substance abuse facilities
-Line item,623300,Continuing care retirement communities and assisted living facilities for the elderly
-Line item,623900,Other residential care facilities
-Summary,624000,Social assistance
-Summary,624100,Individual and family services
-Line item,624120,Services for the elderly and persons with disabilities
-Summary,6242-3,Community and vocational rehabilitation services
-Line item,624200,"Community food and housing, and emergency and other relief services"
-Line item,624300,Vocational rehabilitation services
-Line item,624400,Child day care services
-Summary,710000,"Arts, entertainment, and recreation"
-Summary,711000,"Performing arts, spectator sports, and related industries"
-Summary,711100,Performing arts companies
-Line item,711110,Theater companies and dinner theaters
-Line item,711200,Spectator sports
-Summary,7113-4,"Promoters of events, and agents and managers"
-Line item,711300,"Promoters of performing arts, sports, and similar events"
-Line item,711400,"Agents and managers for artists, athletes, entertainers, and other public figures"
-Line item,711500,"Independent artists, writers, and performers"
-Line item,712000,"Museums, historical sites, and similar institutions"
-Summary,713000,"Amusement, gambling, and recreation industries"
-Line item,713100,Amusement parks and arcades
-Line item,713200,Gambling industries (except casino hotels)
-Summary,713900,Other amusement and recreation industries
-Line item,713940,Fitness and recreational sports centers
-Summary,720000,Accommodation and food services
-Summary,721000,Accommodation
-Summary,721100,Traveler accommodation
-Line item,721120,Casino hotels
-Line item,721200,RV (recreational vehicle) parks and recreational camps
-Line item,721300,Rooming and boarding houses
-Summary,722000,Food services and drinking places
-Line item,722300,Special food services
-Line item,722400,Drinking places (alcoholic beverages)
-Summary,722500,Restaurants and other eating places
-Line item,722511,Full-service restaurants
-Summary,810000,Other services (except public administration)
-Summary,811000,Repair and maintenance
-Summary,811100,Automotive repair and maintenance
-Line item,811110,Automotive mechanical and electrical repair and maintenance
-Line item,811120,"Automotive body, paint, interior, and glass repair"
-Line item,811190,Other automotive repair and maintenance
-Line item,811200,Electronic and precision equipment repair and maintenance
-Line item,811300,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance
-Line item,811400,Personal and household goods repair and maintenance
-Summary,812000,Personal and laundry services
-Line item,812100,Personal care services
-Line item,812200,Death care services
-Line item,812300,Drycleaning and laundry services
-Line item,812900,Other personal services
-Summary,813000,"Religious, grantmaking, civic, professional, and similar organizations"
-Summary,8132-3,Grantmaking and giving services and social advocacy organizations
-Line item,813200,Grantmaking and giving services
-Line item,813300,Social advocacy organizations
-Summary,8134-9,"Civic, social, professional, and similar organizations"
-Line item,813400,Civic and social organizations
-Summary,813900,"Business, professional, labor, political, and similar organizations"
-Line item,813930,Labor unions and similar labor organizations
-Line item,814000,Private households
-Summary,900000,Government
-Summary,910000,Federal government
-Line item,491000,Postal service
-Line item,999100,"Federal government, excluding postal service"
-Line item,999200,"State government, excluding education and hospitals"
-Line item,999300,"Local government, excluding education and hospitals"
+TE1000,Summary,Total employment
+TE1100,Line item,Self-employed workers
+TE1200,Summary,Total wage and salary employment
+110000,Summary,"Agriculture, forestry, fishing and hunting"
+111000,Line item,Crop production
+112000,Line item,Animal production and aquaculture
+113000,Summary,Forestry and logging
+1131-2,Line item,Forestry
+113300,Line item,Logging
+114000,Line item,"Fishing, hunting and trapping"
+115000,Line item,Support activities for agriculture and forestry
+210000,Summary,"Mining, quarrying, and oil and gas extraction"
+211000,Line item,Oil and gas extraction
+212000,Summary,Mining (except oil and gas)
+212100,Line item,Coal mining
+212200,Line item,Metal ore mining
+212300,Line item,Nonmetallic mineral mining and quarrying
+213000,Line item,Support activities for mining
+220000,Summary,Utilities
+221000,Summary,Utilities
+221100,Summary,"Electric power generation, transmission and distribution"
+221110,Summary,Electric power generation
+221111,Line item,Hydroelectric power generation
+221112,Line item,Fossil fuel electric power generation
+221113,Line item,Nuclear electric power generation
+221114,Line item,Solar electric power generation
+221115,Line item,Wind electric power generation
+221116,Line item,Geothermal electric power generation
+221117,Line item,Biomass electric power generation
+221118,Line item,Other electric power generation
+221200,Line item,Natural gas distribution
+221300,Line item,"Water, sewage and other systems"
+230000,Summary,Construction
+236000,Summary,Construction of buildings
+236100,Line item,Residential building construction
+236200,Line item,Nonresidential building construction
+237000,Summary,Heavy and civil engineering construction
+237100,Summary,Utility system construction
+237130,Line item,Power and communication line and related structures construction
+237200,Line item,Land subdivision
+237300,Line item,"Highway, street, and bridge construction"
+237900,Line item,Other heavy and civil engineering construction
+238000,Summary,Specialty trade contractors
+238100,Summary,"Foundation, structure, and building exterior contractors"
+238110,Line item,Poured concrete foundation and structure contractors
+238140,Line item,Masonry contractors
+238160,Line item,Roofing contractors
+238200,Summary,Building equipment contractors
+238210,Line item,Electrical contractors and other wiring installation contractors
+238220,Line item,"Plumbing, heating, and air-conditioning contractors"
+238290,Line item,Other building equipment contractors
+238300,Summary,Building finishing contractors
+238310,Line item,Drywall and insulation contractors
+238320,Line item,Painting and wall covering contractors
+238900,Line item,Other specialty trade contractors
+31-330,Summary,Manufacturing
+311000,Summary,Food manufacturing
+311100,Line item,Animal food manufacturing
+311200,Line item,Grain and oilseed milling
+311300,Line item,Sugar and confectionery product manufacturing
+311400,Line item,Fruit and vegetable preserving and specialty food manufacturing
+311500,Line item,Dairy product manufacturing
+311600,Line item,Animal slaughtering and processing
+311700,Line item,Seafood product preparation and packaging
+311800,Line item,Bakeries and tortilla manufacturing
+311900,Line item,Other food manufacturing
+312000,Summary,Beverage and tobacco product manufacturing
+312100,Line item,Beverage manufacturing
+312200,Line item,Tobacco manufacturing
+313-40,Summary,Textile mills and textile product mills
+313000,Line item,Textile mills
+314000,Line item,Textile product mills
+315-60,Summary,"Apparel, leather and allied product manufacturing"
+315000,Line item,Apparel manufacturing
+316000,Line item,Leather and allied product manufacturing
+321000,Summary,Wood product manufacturing
+321100,Line item,Sawmills and wood preservation
+321200,Line item,"Veneer, plywood, and engineered wood product manufacturing"
+321900,Line item,Other wood product manufacturing
+322000,Summary,Paper manufacturing
+322100,Line item,"Pulp, paper, and paperboard mills"
+322200,Line item,Converted paper product manufacturing
+323000,Line item,Printing and related support activities
+324000,Line item,Petroleum and coal products manufacturing
+325000,Summary,Chemical manufacturing
+325400,Line item,Pharmaceutical and medicine manufacturing
+3250A2,Line item,"Chemical manufacturing (3255,6)"
+3250A1,Line item,"Chemical manufacturing (3251,2,3,9)"
+326000,Summary,Plastics and rubber products manufacturing
+326100,Line item,Plastics product manufacturing
+326200,Line item,Rubber product manufacturing
+327000,Line item,Nonmetallic mineral product manufacturing
+331000,Summary,Primary metal manufacturing
+331100,Line item,Iron and steel mills and ferroalloy manufacturing
+331200,Line item,Steel product manufacturing from purchased steel
+331300,Line item,Alumina and aluminum production and processing
+331400,Line item,Nonferrous metal (except aluminum) production and processing
+331500,Line item,Foundries
+332000,Summary,Fabricated metal product manufacturing
+3320A2,Line item,"Fabricated metal product manufacturing (3323,4)"
+332700,Summary,"Machine shops; turned product; and screw, nut, and bolt manufacturing"
+332710,Line item,Machine shops
+332720,Line item,"Turned product and screw, nut, and bolt manufacturing"
+332800,Line item,"Coating, engraving, heat treating, and allied activities"
+3320A1,Line item,"Fabricated metal product manufacturing (3321,2,5,6,9)"
+333000,Summary,Machinery manufacturing
+333300,Line item,Commercial and service industry machinery manufacturing
+333500,Line item,Metalworking machinery manufacturing
+333600,Line item,"Engine, turbine, and power transmission equipment manufacturing"
+3330A1,Line item,"Machinery manufacturing (3331,2,4,9)"
+334000,Summary,Computer and electronic product manufacturing
+334100,Line item,Computer and peripheral equipment manufacturing
+334200,Line item,Communications equipment manufacturing
+334300,Line item,Audio and video equipment manufacturing
+334400,Line item,Semiconductor and other electronic component manufacturing
+334500,Line item,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334600,Line item,Manufacturing and reproducing magnetic and optical media
+335000,Summary,"Electrical equipment, appliance, and component manufacturing"
+335100,Line item,Electric lighting equipment manufacturing
+335200,Line item,Household appliance manufacturing
+335300,Line item,Electrical equipment manufacturing
+335900,Line item,Other electrical equipment and component manufacturing
+336000,Summary,Transportation equipment manufacturing
+336100,Line item,Motor vehicle manufacturing
+336200,Line item,Motor vehicle body and trailer manufacturing
+336300,Line item,Motor vehicle parts manufacturing
+336400,Line item,Aerospace product and parts manufacturing
+336500,Line item,Railroad rolling stock manufacturing
+336600,Line item,Ship and boat building
+336900,Line item,Other transportation equipment manufacturing
+337000,Summary,Furniture and related product manufacturing
+3370A1,Line item,"Furniture and related product manufacturing (3371,2)"
+337900,Line item,Other furniture related product manufacturing
+339000,Summary,Miscellaneous manufacturing
+339100,Line item,Medical equipment and supplies manufacturing
+339900,Summary,Other miscellaneous manufacturing
+339910,Line item,Jewelry and silverware manufacturing
+420000,Summary,Wholesale trade
+423000,Summary,"Merchant wholesalers, durable goods"
+423100,Line item,Motor vehicle and motor vehicle parts and supplies merchant wholesalers
+423400,Line item,Professional and commercial equipment and supplies merchant wholesalers
+423800,Summary,"Machinery, equipment, and supplies merchant wholesalers"
+423820,Line item,Farm and garden machinery and equipment merchant wholesalers
+4230A1,Line item,"Merchant wholesalers, durable goods (4232,3,5,6,7,9)"
+424000,Summary,"Merchant wholesalers, nondurable goods"
+424300,Line item,"Apparel, piece goods, and notions merchant wholesalers"
+424500,Line item,Farm product raw material merchant wholesalers
+4240A2,Line item,"Merchant wholesalers, nondurable goods (4242,6)"
+4240A1,Line item,"Merchant wholesalers, nondurable goods (4244,8)"
+4240A3,Line item,"Merchant wholesalers, nondurable goods (4241,7,9)"
+425000,Line item,Wholesale electronic markets and agents and brokers
+44-450,Summary,Retail trade
+441000,Summary,Motor vehicle and parts dealers
+441100,Line item,Automobile dealers
+441200,Line item,Other motor vehicle dealers
+441300,Line item,"Automotive parts, accessories, and tire stores"
+445000,Summary,Food and beverage stores
+4450A1,Line item,Grocery and specialty food stores
+445300,Line item,"Beer, wine, and liquor stores"
+452000,Line item,General merchandise stores
+4445R0,Summary,"Retail trade, except motor vehicle and parts dealers, food and beverage stores, and general merchandise stores"
+442000,Summary,Furniture and home furnishings stores
+442100,Line item,Furniture stores
+442200,Line item,Home furnishings stores
+443000,Line item,Electronics and appliance stores
+444000,Summary,Building material and garden equipment and supplies dealers
+444100,Line item,Building material and supplies dealers
+444200,Line item,Lawn and garden equipment and supplies stores
+446000,Summary,Health and personal care stores
+446100,Summary,Health and personal care stores
+446110,Line item,Pharmacies and drug stores
+447000,Line item,Gasoline stations
+448000,Summary,Clothing and clothing accessories stores
+448100,Line item,Clothing stores
+448200,Line item,Shoe stores
+448300,Line item,"Jewelry, luggage, and leather goods stores"
+451000,Summary,"Sporting goods, hobby, musical instrument, and book stores"
+451100,Summary,"Sporting goods, hobby, and musical instrument stores"
+451110,Line item,Sporting goods stores
+451200,Line item,Book stores and news dealers
+453000,Summary,Miscellaneous store retailers
+453100,Line item,Florists
+4530A1,Line item,"Miscellaneous store retailers (4532,3)"
+453900,Line item,Other miscellaneous store retailers
+454000,Summary,Nonstore retailers
+454100,Line item,Electronic shopping and mail-order houses
+454200,Line item,Vending machine operators
+454300,Line item,Direct selling establishments
+48-490,Summary,Transportation and warehousing
+481000,Summary,Air transportation
+481100,Line item,Scheduled air transportation
+481200,Line item,Nonscheduled air transportation
+482000,Line item,Rail transportation
+483000,Summary,Water transportation
+483100,Line item,"Deep sea, coastal, and great lakes water transportation"
+483200,Line item,Inland water transportation
+484000,Line item,Truck transportation
+485000,Summary,Transit and ground passenger transportation
+485100,Line item,Urban transit systems
+485200,Line item,Interurban and rural bus transportation
+485300,Line item,Taxi and limousine service
+485400,Line item,School and employee bus transportation
+485500,Line item,Charter bus industry
+485900,Line item,Other transit and ground passenger transportation
+486000,Summary,Pipeline transportation
+486100,Line item,Pipeline transportation of crude oil
+486200,Line item,Pipeline transportation of natural gas
+486900,Line item,Other pipeline transportation
+487-80,Summary,Scenic and sightseeing transportation and support activities for transportation
+487000,Summary,Scenic and sightseeing transportation
+487100,Line item,"Scenic and sightseeing transportation, land"
+487200,Line item,"Scenic and sightseeing transportation, water"
+487900,Line item,"Scenic and sightseeing transportation, other"
+488000,Summary,Support activities for transportation
+488100,Line item,Support activities for air transportation
+488200,Line item,Support activities for rail transportation
+488300,Line item,Support activities for water transportation
+488400,Line item,Support activities for road transportation
+488500,Line item,Freight transportation arrangement
+488900,Line item,Other support activities for transportation
+492000,Summary,Couriers and messengers
+492100,Line item,Couriers and express delivery services
+492200,Line item,Local messengers and local delivery
+493000,Line item,Warehousing and storage
+510000,Summary,Information
+511000,Summary,Publishing industries (except Internet)
+511100,Summary,"Newspaper, periodical, book, and directory publishers"
+511110,Line item,Newspaper publishers
+511200,Line item,Software publishers
+512000,Summary,Motion picture and sound recording industries
+512100,Summary,Motion picture and video industries
+512130,Line item,Motion picture and video exhibition
+512200,Line item,Sound recording industries
+515000,Summary,Broadcasting (except Internet)
+515100,Summary,Radio and television broadcasting
+515110,Line item,Radio broadcasting
+515120,Line item,Television broadcasting
+515200,Line item,Cable and other subscription programming
+517000,Line item,Telecommunications
+518000,Line item,"Data processing, hosting, and related services"
+519000,Line item,Other information services
+520000,Summary,Finance and insurance
+521-20,Summary,"Monetary authorities, credit intermediation, and related activities"
+521000,Line item,Monetary authorities-central bank
+522000,Summary,Credit intermediation and related activities
+522200,Summary,Nondepository credit intermediation
+522290,Line item,Other nondepository credit intermediation
+5220A1,Line item,"Credit intermediation and related activities (5221,3)"
+524000,Summary,Insurance carriers and related activities
+524100,Summary,Insurance carriers
+524114,Line item,Direct health and medical insurance carriers
+524120,Line item,"Direct insurance (except life, health, and medical) carriers"
+524200,Summary,"Agencies, brokerages, and other insurance related activities"
+524210,Line item,Insurance agencies and brokerages
+524290,Line item,Other insurance related activities
+"523,50",Summary,"Securities, commodity contracts, fund, trusts and other financial investments and vehicles and related activities"
+523000,Line item,"Securities, commodity contracts, and other financial investments and related activities"
+525000,Summary,"Funds, trusts, and other financial vehicles"
+525100,Line item,Insurance and employee benefit funds
+525900,Line item,Other investment pools and funds
+530000,Summary,Real estate and rental and leasing
+531000,Line item,Real estate
+532000,Summary,Rental and leasing services
+532100,Line item,Automotive equipment rental and leasing
+5320A1,Line item,"Rental and leasing services (5322,3,4)"
+533000,Line item,Lessors of nonfinancial intangible assets (except copyrighted works)
+540000,Summary,"Professional, scientific, and technical services"
+541000,Summary,"Professional, scientific, and technical services"
+541100,Line item,Legal services
+541200,Line item,"Accounting, tax preparation, bookkeeping, and payroll services"
+541300,Summary,"Architectural, engineering, and related services"
+541330,Line item,Engineering services
+541380,Line item,Testing laboratories
+541400,Line item,Specialized design services
+541500,Line item,Computer systems design and related services
+541600,Line item,"Management, scientific, and technical consulting services"
+541700,Summary,Scientific research and development services
+541710,Line item,"Research and development in the physical, engineering, and life sciences"
+541720,Line item,Research and development in the social sciences and humanities
+541800,Line item,"Advertising, public relations, and related services"
+541900,Summary,"Other professional, scientific, and technical services"
+541920,Line item,Photographic services
+541940,Line item,Veterinary services
+550000,Summary,Management of companies and enterprises
+551000,Line item,Management of companies and enterprises
+560000,Summary,Administrative and support and waste management and remediation services
+561000,Summary,Administrative and support services
+561100,Line item,Office administrative services
+561200,Line item,Facilities support services
+561300,Summary,Employment services
+561320,Line item,Temporary help services
+561400,Line item,Business support services
+561500,Line item,Travel arrangement and reservation services
+561600,Summary,Investigation and security services
+561610,Line item,"Investigation, guard, and armored car services"
+561620,Line item,Security systems services
+561700,Summary,Services to buildings and dwellings
+561710,Line item,Exterminating and pest control services
+561730,Line item,Landscaping services
+561900,Line item,Other support services
+562000,Summary,Waste management and remediation services
+562100,Line item,Waste collection
+562200,Line item,Waste treatment and disposal
+562900,Line item,Remediation and other waste management services
+610000,Summary,"Educational services; state, local, and private"
+611000,Summary,"Educational services; state, local, and private"
+611100,Summary,"Elementary and secondary schools; state, local, and private"
+611105,Line item,Elementary and secondary schools; private
+611102,Line item,Elementary and secondary schools; state
+611103,Line item,Elementary and secondary schools; local
+6112-3,Summary,"Junior colleges, colleges, universities, and professional schools; state, local, and private"
+611200,Summary,"Junior colleges; state, local, and private"
+611205,Line item,Junior colleges; private
+611202,Line item,Junior colleges; state
+611203,Line item,Junior colleges; local
+611300,Summary,"Colleges, universities, and professional schools; state, local, and private"
+611305,Line item,"Colleges, universities, and professional schools; private"
+611302,Line item,"Colleges, universities, and professional schools; state"
+611303,Line item,"Colleges, universities, and professional schools; local"
+6114-7,Summary,"Other educational services; state, local, and private"
+611400,Summary,"Business schools and computer and management training; state, local, and private"
+611405,Line item,Business schools and computer and management training; private
+611402,Line item,Business schools and computer and management training; state
+611403,Line item,Business schools and computer and management training; local
+611500,Summary,"Technical and trade schools; state, local, and private"
+611505,Line item,Technical and trade schools; private
+611502,Line item,Technical and trade schools; state
+611503,Line item,Technical and trade schools; local
+611600,Summary,"Other schools and instruction; state, local, and private"
+611605,Line item,Other schools and instruction; private
+611602,Line item,Other schools and instruction; state
+611603,Line item,Other schools and instruction; local
+611700,Summary,"Educational support services; state, local, and private"
+611705,Line item,Educational support services; private
+611703,Line item,Educational support services; local
+620000,Summary,Healthcare and social assistance
+621000,Summary,Ambulatory healthcare services
+621100,Line item,Offices of physicians
+621200,Line item,Offices of dentists
+621300,Summary,Offices of other health practitioners
+621310,Line item,Offices of chiropractors
+621320,Line item,Offices of optometrists
+621330,Line item,Offices of mental health practitioners (except physicians)
+621340,Line item,"Offices of physical, occupational and speech therapists, and audiologists"
+621390,Line item,Offices of all other health practitioners
+621400,Summary,Outpatient care centers
+621420,Line item,Outpatient mental health and substance abuse centers
+621500,Line item,Medical and diagnostic laboratories
+621600,Line item,Home healthcare services
+621900,Summary,Other ambulatory healthcare services
+621910,Line item,Ambulance services
+621990,Line item,All other ambulatory healthcare services
+622000,Summary,"Hospitals; state, local, and private"
+622100,Summary,"General medical and surgical hospitals; state, local, and private"
+622105,Line item,General medical and surgical hospitals; private
+622102,Line item,General medical and surgical hospitals; state
+622103,Line item,General medical and surgical hospitals; local
+622200,Summary,"Psychiatric and substance abuse hospitals; state, local, and private"
+622205,Line item,Psychiatric and substance abuse hospitals; private
+622202,Line item,Psychiatric and substance abuse hospitals; state
+622203,Line item,Psychiatric and substance abuse hospitals; local
+622300,Summary,"Specialty (except psychiatric and substance abuse) hospitals; state, local, and private"
+622305,Line item,Specialty (except psychiatric and substance abuse) hospitals; private
+622302,Line item,Specialty (except psychiatric and substance abuse) hospitals; state
+622303,Line item,Specialty (except psychiatric and substance abuse) hospitals; local
+623000,Summary,Nursing and residential care facilities
+623100,Line item,Nursing care facilities (skilled nursing facilities)
+623200,Summary,"Residential intellectual and developmental disability, mental health, and substance abuse facilities"
+623210,Line item,Residential intellectual and developmental disability facilities
+623220,Line item,Residential mental health and substance abuse facilities
+623300,Line item,Continuing care retirement communities and assisted living facilities for the elderly
+623900,Line item,Other residential care facilities
+624000,Summary,Social assistance
+624100,Summary,Individual and family services
+624120,Line item,Services for the elderly and persons with disabilities
+6242-3,Summary,Community and vocational rehabilitation services
+624200,Line item,"Community food and housing, and emergency and other relief services"
+624300,Line item,Vocational rehabilitation services
+624400,Line item,Child day care services
+710000,Summary,"Arts, entertainment, and recreation"
+711000,Summary,"Performing arts, spectator sports, and related industries"
+711100,Summary,Performing arts companies
+711110,Line item,Theater companies and dinner theaters
+711200,Line item,Spectator sports
+7113-4,Summary,"Promoters of events, and agents and managers"
+711300,Line item,"Promoters of performing arts, sports, and similar events"
+711400,Line item,"Agents and managers for artists, athletes, entertainers, and other public figures"
+711500,Line item,"Independent artists, writers, and performers"
+712000,Line item,"Museums, historical sites, and similar institutions"
+713000,Summary,"Amusement, gambling, and recreation industries"
+713100,Line item,Amusement parks and arcades
+713200,Line item,Gambling industries (except casino hotels)
+713900,Summary,Other amusement and recreation industries
+713940,Line item,Fitness and recreational sports centers
+720000,Summary,Accommodation and food services
+721000,Summary,Accommodation
+721100,Summary,Traveler accommodation
+721120,Line item,Casino hotels
+721200,Line item,RV (recreational vehicle) parks and recreational camps
+721300,Line item,"Rooming and boarding houses, dormitories, and workers' camps"
+722000,Summary,Food services and drinking places
+722300,Line item,Special food services
+722400,Line item,Drinking places (alcoholic beverages)
+722500,Summary,Restaurants and other eating places
+722511,Line item,Full-service restaurants
+810000,Summary,Other services (except public administration)
+811000,Summary,Repair and maintenance
+811100,Summary,Automotive repair and maintenance
+811110,Line item,Automotive mechanical and electrical repair and maintenance
+811120,Line item,"Automotive body, paint, interior, and glass repair"
+811190,Line item,Other automotive repair and maintenance
+811200,Line item,Electronic and precision equipment repair and maintenance
+811300,Line item,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance
+811400,Line item,Personal and household goods repair and maintenance
+812000,Summary,Personal and laundry services
+812100,Line item,Personal care services
+812200,Line item,Death care services
+812300,Line item,Drycleaning and laundry services
+812900,Line item,Other personal services
+813000,Summary,"Religious, grantmaking, civic, professional, and similar organizations"
+8132-3,Summary,Grantmaking and giving services and social advocacy organizations
+813200,Line item,Grantmaking and giving services
+813300,Line item,Social advocacy organizations
+8134-9,Summary,"Civic, social, professional, and similar organizations"
+813400,Line item,Civic and social organizations
+813900,Summary,"Business, professional, labor, political, and similar organizations"
+813930,Line item,Labor unions and similar labor organizations
+814000,Line item,Private households
+900000,Summary,Government
+910000,Summary,Federal government
+491000,Line item,Postal service
+999100,Line item,"Federal government, excluding postal service"
+999200,Line item,"State government, excluding education and hospitals"
+999300,Line item,"Local government, excluding education and hospitals"

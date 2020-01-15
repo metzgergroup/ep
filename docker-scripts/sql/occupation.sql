@@ -7,7 +7,7 @@ CREATE UNLOGGED TABLE occupation (
 );
 
 \set filepath `echo ${DATA_DIR}`/occupation.csv
-COPY occupation (occupation_type, occupation_code, title) FROM :'filepath' WITH CSV;
+COPY occupation (occupation_code, occupation_type, title) FROM :'filepath' WITH CSV;
 
 ALTER TABLE occupation SET LOGGED;
 
