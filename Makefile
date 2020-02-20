@@ -1,7 +1,7 @@
 SHELL = /bin/bash
 IMAGE_NAME = gcr.io/acat-shared/ep
 SOURCE_DIR = docker-scripts/data
-PG_VERSION = 11.6
+PG_VERSION = 11.7
 VERSION = 2018_2028
 
 .PHONY: data build push clean
